@@ -67,12 +67,286 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.aspx" />
+    <Content Include="about.css" />
+    <Content Include="about.html" />
+    <Content Include="apartmentgoa.aspx" />
+    <Content Include="apartmentgoa.css" />
+    <Content Include="apartmentgoa.html" />
+    <Content Include="beachvilla.aspx" />
+    <Content Include="beachvilla.css" />
+    <Content Include="beachvilla.html" />
+    <Content Include="BlogPosts\architecture-in-goa.css" />
+    <Content Include="BlogPosts\architecture-in-goa.html" />
+    <Content Include="BlogPosts\buying-property-in-goa.css" />
+    <Content Include="BlogPosts\buying-property-in-goa.html" />
+    <Content Include="BlogPosts\rental-Income-from-properties-in-goa.html" />
+    <Content Include="BlogPosts\rental-Income-goa.css" />
+    <Content Include="BlogPosts\restaurants-in-goa.css" />
+    <Content Include="BlogPosts\restaurants-in-goa.html" />
+    <Content Include="BlogPosts\tourism-in-goa.css" />
+    <Content Include="BlogPosts\tourism-in-goa.html" />
+    <Content Include="blogs.aspx" />
+    <Content Include="blogs.css" />
+    <Content Include="blogs.html" />
+    <Content Include="careers.aspx" />
+    <Content Include="careers.css" />
+    <Content Include="careers.html" />
+    <Content Include="contact.aspx" />
+    <Content Include="contact.css" />
+    <Content Include="contact.html" />
+    <Content Include="disclaimer.aspx" />
+    <Content Include="disclaimer.css" />
+    <Content Include="disclaimer.html" />
+    <Content Include="feedback.aspx" />
+    <Content Include="feedback.css" />
+    <Content Include="feedback.html" />
+    <Content Include="gasuites.aspx" />
+    <Content Include="gasuites.css" />
+    <Content Include="gasuites.html" />
+    <Content Include="img\1.jpg" />
+    <Content Include="img\2.jpg" />
+    <Content Include="img\All Images\About Us\1st.png" />
+    <Content Include="img\All Images\About Us\2nd.jpg" />
+    <Content Include="img\All Images\About Us\3rd.jpg" />
+    <Content Include="img\All Images\About Us\4th.jpg" />
+    <Content Include="img\All Images\About Us\5th.jpg" />
+    <Content Include="img\All Images\About Us\about_slider.png" />
+    <Content Include="img\All Images\Contact\Contact.jpg" />
+    <Content Include="img\All Images\Goa Page\1st.jpg" />
+    <Content Include="img\All Images\Goa Page\2nd-1.jpg" />
+    <Content Include="img\All Images\Goa Page\2nd.jpg" />
+    <Content Include="img\All Images\Goa Page\3rd.jpg" />
+    <Content Include="img\All Images\Goa Page\4th.jpg" />
+    <Content Include="img\All Images\Goa Page\5th.jpg" />
+    <Content Include="img\All Images\Goa Page\6th.jpg" />
+    <Content Include="img\All Images\Homepage\DSC08906.jpg" />
+    <Content Include="img\All Images\Homepage\thecalissa.jpg" />
+    <Content Include="img\All Images\Homepage\whyGoa.jpg" />
+    <Content Include="img\All Images\Mandatory pages\Disclaimer.jpg" />
+    <Content Include="img\All Images\Mandatory pages\GA Suites.jpg" />
+    <Content Include="img\All Images\Mandatory pages\NRI Corner.jpg" />
+    <Content Include="img\All Images\Mandatory pages\Privacy Policy.jpg" />
+    <Content Include="img\All Images\Mandatory pages\Terms and Condition.jpg" />
+    <Content Include="img\All Images\Other Links\Beach Villas in Goa.jpg" />
+    <Content Include="img\All Images\Other Links\Rental properties in Goa.jpg" />
+    <Content Include="img\All Images\Other Links\Serviced Apartment in Goa.jpg" />
+    <Content Include="img\All Images\Other Links\Studio Apartments in Goa.jpg" />
+    <Content Include="img\All Images\Other Links\Villas in Goa.jpg" />
+    <Content Include="img\All Images\Other Links\Villas in North Goa.jpg" />
+    <Content Include="img\background-1.jpg" />
+    <Content Include="img\background.jpg" />
+    <Content Include="img\contPgIcon\icons-54.png" />
+    <Content Include="img\contPgIcon\icons-55.png" />
+    <Content Include="img\contPgIcon\icons-56.png" />
+    <Content Include="img\curve.png" />
+    <Content Include="img\favIcon.png" />
+    <Content Include="img\GA Suit Icons\1.png" />
+    <Content Include="img\GA Suit Icons\10.png" />
+    <Content Include="img\GA Suit Icons\11.png" />
+    <Content Include="img\GA Suit Icons\2.png" />
+    <Content Include="img\GA Suit Icons\3.png" />
+    <Content Include="img\GA Suit Icons\4.png" />
+    <Content Include="img\GA Suit Icons\5.png" />
+    <Content Include="img\GA Suit Icons\6.png" />
+    <Content Include="img\GA Suit Icons\7.png" />
+    <Content Include="img\GA Suit Icons\8.png" />
+    <Content Include="img\GA Suit Icons\9.png" />
+    <Content Include="img\Homepage icons\icons-01.png" />
+    <Content Include="img\Homepage icons\icons-02.png" />
+    <Content Include="img\Homepage icons\icons-03.png" />
+    <Content Include="img\img-3.png" />
+    <Content Include="img\img-4.png" />
+    <Content Include="img\img-5.png" />
+    <Content Include="img\img-6.png" />
+    <Content Include="img\logo.png" />
+    <Content Include="img\mobileHmPgSlider.png" />
+    <Content Include="img\p.jpg" />
+    <Content Include="img\Screenshot 2023-03-30 at 8.53.47 PM.png" />
+    <Content Include="img\Screenshot 2023-03-30 at 8.54.28 PM.png" />
+    <Content Include="img\sliderImg.png" />
+    <Content Include="img\Socialmedia\Social Media Icons-57.png" />
+    <Content Include="img\Socialmedia\Social Media Icons-58.png" />
+    <Content Include="img\Socialmedia\Social Media Icons-59.png" />
+    <Content Include="img\Socialmedia\Social Media Icons-60.png" />
+    <Content Include="img\Socialmedia\Social Media Icons-61.png" />
+    <Content Include="img\Socialmedia\Social Media Icons-62.png" />
+    <Content Include="img\Tree_Illustration.png" />
+    <Content Include="img\UpdatedImg\blogs\blogCover.png" />
+    <Content Include="img\UpdatedImg\blogs\blogpost1.png" />
+    <Content Include="img\UpdatedImg\blogs\blogpost2.png" />
+    <Content Include="img\UpdatedImg\blogs\blogpost3.png" />
+    <Content Include="img\UpdatedImg\blogs\blogpost4.png" />
+    <Content Include="img\UpdatedImg\blogs\blogpost5.png" />
+    <Content Include="img\UpdatedImg\blogs\thumbnails\Thumb1.jpg" />
+    <Content Include="img\UpdatedImg\blogs\thumbnails\Thumb2.jpg" />
+    <Content Include="img\UpdatedImg\blogs\thumbnails\Thumb3.jpg" />
+    <Content Include="img\UpdatedImg\blogs\thumbnails\Thumb4.jpg" />
+    <Content Include="img\UpdatedImg\blogs\thumbnails\Thumb5.jpg" />
+    <Content Include="img\UpdatedImg\career-banner.png" />
+    <Content Include="img\UpdatedImg\feedback.png" />
+    <Content Include="img\video-mobile.mp4" />
+    <Content Include="img\video.mp4" />
+    <Content Include="img\Waves-footer.png" />
+    <Content Include="img\Waves.png" />
+    <Content Include="img\WavesBiger.png" />
+    <Content Include="img\WavesSymbolRental.png" />
+    <Content Include="img\WavesSymbol\WavesSymbol.png" />
+    <Content Include="img\WavesSymbol\WavesSymbolRental.png" />
+    <Content Include="index.aspx" />
+    <Content Include="index.html" />
+    <Content Include="JS\jquery.scroll-reveal.js" />
+    <Content Include="nricorner.aspx" />
+    <Content Include="nricorner.css" />
+    <Content Include="nricorner.html" />
+    <Content Include="privacypolicy.aspx" />
+    <Content Include="privacypolicy.css" />
+    <Content Include="privacypolicy.html" />
+    <Content Include="project.css" />
+    <Content Include="rentalproperties.aspx" />
+    <Content Include="rentalproperties.css" />
+    <Content Include="rentalproperties.html" />
+    <Content Include="serviceapartment.aspx" />
+    <Content Include="serviceapartment.css" />
+    <Content Include="serviceapartment.html" />
+    <Content Include="style.css" />
+    <Content Include="tc.css" />
+    <Content Include="terms-and-condition.aspx" />
+    <Content Include="terms-and-condition.html" />
+    <Content Include="villaingoa.aspx" />
+    <Content Include="villaingoa.css" />
+    <Content Include="villaingoa.html" />
+    <Content Include="villainnorth.css" />
+    <Content Include="villainnorth.html" />
     <Content Include="Web.config" />
+    <Content Include="whyGoa.aspx" />
+    <Content Include="whyGoa.html" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="about.aspx.cs">
+      <DependentUpon>about.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="about.aspx.designer.cs">
+      <DependentUpon>about.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="apartmentgoa.aspx.cs">
+      <DependentUpon>apartmentgoa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="apartmentgoa.aspx.designer.cs">
+      <DependentUpon>apartmentgoa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="beachvilla.aspx.cs">
+      <DependentUpon>beachvilla.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="beachvilla.aspx.designer.cs">
+      <DependentUpon>beachvilla.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="blogs.aspx.cs">
+      <DependentUpon>blogs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="blogs.aspx.designer.cs">
+      <DependentUpon>blogs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="careers.aspx.cs">
+      <DependentUpon>careers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="careers.aspx.designer.cs">
+      <DependentUpon>careers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contact.aspx.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="contact.aspx.designer.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="disclaimer.aspx.cs">
+      <DependentUpon>disclaimer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="disclaimer.aspx.designer.cs">
+      <DependentUpon>disclaimer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="feedback.aspx.cs">
+      <DependentUpon>feedback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="feedback.aspx.designer.cs">
+      <DependentUpon>feedback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gasuites.aspx.cs">
+      <DependentUpon>gasuites.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gasuites.aspx.designer.cs">
+      <DependentUpon>gasuites.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="nricorner.aspx.cs">
+      <DependentUpon>nricorner.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="nricorner.aspx.designer.cs">
+      <DependentUpon>nricorner.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="privacypolicy.aspx.cs">
+      <DependentUpon>privacypolicy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="privacypolicy.aspx.designer.cs">
+      <DependentUpon>privacypolicy.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rentalproperties.aspx.cs">
+      <DependentUpon>rentalproperties.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rentalproperties.aspx.designer.cs">
+      <DependentUpon>rentalproperties.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="serviceapartment.aspx.cs">
+      <DependentUpon>serviceapartment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="serviceapartment.aspx.designer.cs">
+      <DependentUpon>serviceapartment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="terms-and-condition.aspx.cs">
+      <DependentUpon>terms-and-condition.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="terms-and-condition.aspx.designer.cs">
+      <DependentUpon>terms-and-condition.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="villaingoa.aspx.cs">
+      <DependentUpon>villaingoa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="villaingoa.aspx.designer.cs">
+      <DependentUpon>villaingoa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="whyGoa.aspx.cs">
+      <DependentUpon>whyGoa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="whyGoa.aspx.designer.cs">
+      <DependentUpon>whyGoa.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\Tree Illustration-01.eps" />
+    <Content Include="img\Waves-03.eps" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
