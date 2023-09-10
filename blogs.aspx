@@ -18,7 +18,7 @@
     <nav>
         <div class="menu">
             <div class="logo">
-                <a href="index.html">
+                <a href="http://www.greenambit.com/">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
@@ -29,8 +29,8 @@
                 <div class="hambars"></div>
             </label>
             <ul style="margin: 0;z-index: 1;position: relative;" class="deskMenu">
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./about.html">About Us</a></li>
+                <li><a href="http://www.greenambit.com/">Home</a></li>
+                <li><a href="./about.aspx">About Us</a></li>
                 <li style="position: relative;" id="shoSubMenu">
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
@@ -40,10 +40,10 @@
                         </ul>
                    </div>
                 </li>
-                <li><a href="./careers.html">Careers</a></li>
-                <li class="desktop"><a href="./blogs.html" class="active">Blogs</a></li>
-                <li class="mobile"><a href="./rentalproperties.html">Rentals</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./careers.aspx">Careers</a></li>
+                <li class="desktop"><a href="./blogs.aspx" class="active">Blogs</a></li>
+                <li class="mobile"><a href="./rentalproperties.aspx">Rentals</a></li>
+                <li><a href="./contact.aspx">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -91,30 +91,30 @@
     </div>
     <div class="tag-line">
         <div class="tagline-wrapper">
-            <a href="./nricorner.html" class="customBtnWidth2">NRI Corner</a>
-            <a href="./gasuites.html" class="customBtnWidth2">GA Suites</a>
-            <a href="./disclaimer.html" class="customBtnWidth2">Disclaimer</a>
-            <a href="./terms-and-condition.html" class="customBtnWidth2">T & C</a>
-            <a href="./privacypolicy.html" class="customBtnWidth2">Privacy & Policy</a>
-            <a href="blogs.html" class="customBtnWidth2" style="background: #EAECE3;">Blogs</a>
+            <a href="./nricorner.aspx" class="customBtnWidth2">NRI Corner</a>
+            <a href="./gasuites.aspx" class="customBtnWidth2">GA Suites</a>
+            <a href="./disclaimer.aspx" class="customBtnWidth2">Disclaimer</a>
+            <a href="./termsandcondition.aspx" class="customBtnWidth2">T & C</a>
+            <a href="./privacypolicy.aspx" class="customBtnWidth2">Privacy & Policy</a>
+            <a href="blogs.aspx" class="customBtnWidth2" style="background: #EAECE3;">Blogs</a>
         </div>
     </div>
     <h2 class="blog-title" style="padding: 35px 5%;font-family: 'Unbounded';font-weight: 300;">Blogs</h2>
     <div class="blogs">
         <div class="blogItem">
-            <div class="imgText" onclick="openPage('BlogPosts/tourism-in-goa.html')">Tourism in Goa <i class="fa-solid fa-arrow-right"></i></div></a>
+            <div class="imgText" onclick="openPage('BlogPosts/tourism-in-goa.aspx')">Tourism in Goa <i class="fa-solid fa-arrow-right"></i></div></a>
         </div>
         <div class="blogItem">
-            <div class="imgText" onclick="openPage('BlogPosts/buying-property-in-goa.html')">Buying Property in Goa <i class="fa-solid fa-arrow-right"></i></div>
+            <div class="imgText" onclick="openPage('BlogPosts/buying-property-in-goa.aspx')">Buying Property in Goa <i class="fa-solid fa-arrow-right"></i></div>
         </div>
         <div class="blogItem">
-            <div class="imgText" onclick="openPage('BlogPosts/rental-Income-from-properties-in-goa.html')">Goa Property Rental Income <i class="fa-solid fa-arrow-right"></i></div>
+            <div class="imgText" onclick="openPage('BlogPosts/rental-Income-from-properties-in-goa.aspx')">Goa Property Rental Income <i class="fa-solid fa-arrow-right"></i></div>
         </div>
         <div class="blogItem">
-            <div class="imgText" onclick="openPage('BlogPosts/architecture-in-goa.html')">Architecture in Goa <i class="fa-solid fa-arrow-right"></i></div>
+            <div class="imgText" onclick="openPage('BlogPosts/architecture-in-goa.aspx')">Architecture in Goa <i class="fa-solid fa-arrow-right"></i></div>
         </div>
         <div class="blogItem">
-            <div class="imgText" onclick="openPage('BlogPosts/restaurants-in-goa.html')">Restaurants in Goa <i class="fa-solid fa-arrow-right"></i></div>
+            <div class="imgText" onclick="openPage('BlogPosts/restaurants-in-goa.aspx')">Restaurants in Goa <i class="fa-solid fa-arrow-right"></i></div>
         </div>
     </div>
 
@@ -162,12 +162,12 @@
                 </ul>
                 <ul class="box" style="position: relative;width: 333px;">
                     <li class="link_name">COMPANY</li>
-                    <li><a href="nricorner.html">NRI Corner</a></li>
-                    <li><a href="gasuites.html">GA Suites</a></li>
-                    <li><a href="disclaimer.html">Disclaimer</a></li>
-                    <li><a href="privacypolicy.html">Privacy & Policy</a></li>
-                    <li><a href="terms-and-condition.html">T & C</a></li>
-                    <li><a href="./blogs.html">Blogs</a></li>
+                    <li><a href="nricorner.aspx">NRI Corner</a></li>
+                    <li><a href="gasuites.aspx">GA Suites</a></li>
+                    <li><a href="disclaimer.aspx">Disclaimer</a></li>
+                    <li><a href="privacypolicy.aspx">Privacy & Policy</a></li>
+                    <li><a href="termsandcondition.aspx">T & C</a></li>
+                    <li><a href="./blogs.aspx">Blogs</a></li>
                     <li class="desktop">
                         <ul style="padding: 0;width: 100%;">
                             <li class="link_name" style="padding-top: 23px;">SOCIAL</li>
@@ -200,14 +200,14 @@
                 </ul>
                 <ul class="box">
                     <li class="link_name">SUPPORT</li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="feedback.html">Feedback</a></li>
+                    <li><a href="contact.aspx">Contact</a></li>
+                    <li><a href="feedback.aspx">Feedback</a></li>
 
                     <ul style="padding: 0;">
                         <li class="link_name" style="padding-top: 23px;">OTHER LINKS</li>
-                        <li><a href="villaingoa.html">Villas in Goa</a></li>
-                        <li><a href="rentalproperties.html">Rental Properties in Goa</a></li>
-                        <li><a href="beachvilla.html">Beach Villas in Goa</a></li>
+                        <li><a href="villaingoa.aspx">Villas in Goa</a></li>
+                        <li><a href="rentalproperties.aspx">Rental Properties in Goa</a></li>
+                        <li><a href="beachvilla.aspx">Beach Villas in Goa</a></li>
                     </ul>
 
                 </ul>
@@ -274,84 +274,84 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
         integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script>
-        $(document).ready(function () {
-            $('.subMenu li').on({
-                'mouseenter': function () {
-                    $('#shoSubMenu').addClass('showShown');
-                },
-                'mouseleave': function () {
-                    $('#shoSubMenu').removeClass('showShown');
-                }
-            });
+     <script>
+         $(document).ready(function () {
+             $('.subMenu li').on({
+                 'mouseenter': function () {
+                     $('#shoSubMenu').addClass('showShown');
+                 },
+                 'mouseleave': function () {
+                     $('#shoSubMenu').removeClass('showShown');
+                 }
+             });
 
 
-            let isChecked = false;
-            $('.hamburger').on('click', function () {
-                isChecked = isChecked ? false : true;
-                if (isChecked) {
-                    $('.mobile-menu').css('transform', 'translateX(0%)');
-                    $('ul.deskMenu').find('li').find('ul').removeAttr('class');
-                    $('.menu-contanier ul').html($('.hamburger').next().html());
-                    $('.img').css('height', '100vh');
-                } else {
-                    $('.mobile-menu').css('transform', 'translateX(-100%)');
-                    $('ul.deskMenu').find('li').find('ul').addClass('subMenu');
-                    $('.img').css('height', '');
-                }
-                $('.tag-line,.nri,.faq,.faq-1,hr,.blogs,footer,.blog-title').toggle();
-            });
+             let isChecked = false;
+             $('.hamburger').on('click', function () {
+                 isChecked = isChecked ? false : true;
+                 if (isChecked) {
+                     $('.mobile-menu').css('transform', 'translateX(0%)');
+                     $('ul.deskMenu').find('li').find('ul').removeAttr('class');
+                     $('.menu-contanier ul').html($('.hamburger').next().html());
+                     $('.img').css('height', '100vh');
+                 } else {
+                     $('.mobile-menu').css('transform', 'translateX(-100%)');
+                     $('ul.deskMenu').find('li').find('ul').addClass('subMenu');
+                     $('.img').css('height', '');
+                 }
+                 $('.tag-line,.nri,.faq,.faq-1,hr,.blogs,footer,.blog-title').toggle();
+             });
 
-            $(document).on('click', 'li#shoSubMenu', function () {
-                $(this).find('ul').slideToggle();
-                $("#shoSubMenu i").eq(1).hasClass('fa-chevron-down')?$("#shoSubMenu i").eq(1).removeClass('fa-chevron-down').addClass('fa-chevron-up'):$("#shoSubMenu i").eq(1).removeClass('fa-chevron-up').addClass('fa-chevron-down');
-            });
+             $(document).on('click', 'li#shoSubMenu', function () {
+                 $(this).find('ul').slideToggle();
+                 $("#shoSubMenu i").eq(1).hasClass('fa-chevron-down') ? $("#shoSubMenu i").eq(1).removeClass('fa-chevron-down').addClass('fa-chevron-up') : $("#shoSubMenu i").eq(1).removeClass('fa-chevron-up').addClass('fa-chevron-down');
+             });
 
-            $('.accordion-item.active').find('.icon').text("-");
-            $('.item-header').click(function () {
-                $('.accordion-item').removeClass('active');
-                $(this).parent().addClass('active');
-                $(".icon").text("+");
-                $(this).children(".icon").text("-");
-            });
+             $('.accordion-item.active').find('.icon').text("-");
+             $('.item-header').click(function () {
+                 $('.accordion-item').removeClass('active');
+                 $(this).parent().addClass('active');
+                 $(".icon").text("+");
+                 $(this).children(".icon").text("-");
+             });
 
-            if ($(window).width() > 414) {
-                $('.tagline-wrapper a').removeClass('customBtnWidth2').addClass('button');
-            } else {
-                $('.tagline-wrapper a').removeClass('button').addClass('customBtnWidth2');
-            }
-            $(window).resize(function () {
-                if ($(window).width() > 414) {
-                    $('.tagline-wrapper a').removeClass('customBtnWidth2').addClass('button');
-                } else {
-                    $('.tagline-wrapper a').removeClass('button').addClass('customBtnWidth2');
-                }
-            });
-        });
+             if ($(window).width() > 414) {
+                 $('.tagline-wrapper a').removeClass('customBtnWidth2').addClass('button');
+             } else {
+                 $('.tagline-wrapper a').removeClass('button').addClass('customBtnWidth2');
+             }
+             $(window).resize(function () {
+                 if ($(window).width() > 414) {
+                     $('.tagline-wrapper a').removeClass('customBtnWidth2').addClass('button');
+                 } else {
+                     $('.tagline-wrapper a').removeClass('button').addClass('customBtnWidth2');
+                 }
+             });
+         });
 
-        function openPage(pageUrl) {
-            window.open(pageUrl , "_self");
-        }
+         function openPage(pageUrl) {
+             window.open(pageUrl, "_self");
+         }
 
-        function SubMenuonPhone() {
-            if ($(window).width() < 1200) {
-                $(".onPhoneUnwrap").unwrap();
-            }
-        }
-        SubMenuonPhone();
-        // $(window).on('resize', function () {
-        //     SubMenuonPhone();
-        // });
-        $('.scrl2btm').click(function () {
-        $('html, body').animate({
-            scrollTop: $(document).height()
-        }, 800);
-        return false;
-    });
-        var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq ||
-        { widgetcode: "40ff8dba45fd15e4347c69b49cbbc1d8069a29167c93a5d2f492b6f0b402c9ddecbe33e741b388ef61c19b24c5955c63", values: {}, ready: function () { } };
-    var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true;
-    s.src = "https://salesiq.zoho.in/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); d.write("<div id='zsiqwidget'></div>");
+         function SubMenuonPhone() {
+             if ($(window).width() < 1200) {
+                 $(".onPhoneUnwrap").unwrap();
+             }
+         }
+         SubMenuonPhone();
+         // $(window).on('resize', function () {
+         //     SubMenuonPhone();
+         // });
+         $('.scrl2btm').click(function () {
+             $('html, body').animate({
+                 scrollTop: $(document).height()
+             }, 800);
+             return false;
+         });
+         var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq ||
+             { widgetcode: "40ff8dba45fd15e4347c69b49cbbc1d8069a29167c93a5d2f492b6f0b402c9ddecbe33e741b388ef61c19b24c5955c63", values: {}, ready: function () { } };
+         var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true;
+         s.src = "https://salesiq.zoho.in/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); d.write("<div id='zsiqwidget'></div>");
     </script>
 </body>
 </html>

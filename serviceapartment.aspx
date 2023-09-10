@@ -19,7 +19,7 @@
     <nav>
         <div class="menu">
             <div class="logo">
-                <a href="index.html">
+                <a href="http://www.greenambit.com/">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
@@ -30,8 +30,8 @@
                 <div class="hambars"></div>
             </label>
             <ul style="margin: 0;z-index: 1;position: relative;" class="deskMenu">
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./about.html">About Us</a></li>
+                <li><a href="http://www.greenambit.com/">Home</a></li>
+                <li><a href="./about.aspx">About Us</a></li>
                 <li style="position: relative;" id="shoSubMenu">
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
@@ -41,10 +41,10 @@
                         </ul>
                    </div>
                 </li>
-                <li><a href="./careers.html">Careers</a></li>
-                <li class="desktop"><a href="./blogs.html">Blogs</a></li>
-                <li class="mobile"><a href="./rentalproperties.html">Rentals</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./careers.aspx">Careers</a></li>
+                <li class="desktop"><a href="./blogs.aspx">Blogs</a></li>
+                <li class="mobile"><a href="./rentalproperties.aspx">Rentals</a></li>
+                <li><a href="./contact.aspx">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -93,12 +93,12 @@
 
     <div class="tag-line">
         <div class="tagline-wrapper">
-            <a href="./rentalproperties.html" class="button">Rental properties in Goa</a>
-            <a href="./villainnorth.html" class="button">Villas in North Goa</a>
-            <a href="./serviceapartment.html" class="button" style="font-weight: 500; background: #EAECE3;">Serviced Apartment in Goa</a>
-            <a href="./beachvilla.html" class="button">Beach Villas in Goa</a>
-            <a href="./apartmentgoa.html" class="button">Studio Apartments in Goa</a>
-            <a href="./villaingoa.html" class="button">Villas in Goa</a>
+            <a href="./rentalproperties.aspx" class="button">Rental properties in Goa</a>
+            <a href="./villainnorth.aspx" class="button">Villas in North Goa</a>
+            <a href="./serviceapartment.aspx" class="button" style="font-weight: 500; background: #EAECE3;">Serviced Apartment in Goa</a>
+            <a href="./beachvilla.aspx" class="button">Beach Villas in Goa</a>
+            <a href="./apartmentgoa.aspx" class="button">Studio Apartments in Goa</a>
+            <a href="./villaingoa.aspx" class="button">Villas in Goa</a>
         </div>
     </div>
 
@@ -213,12 +213,12 @@
                 </ul>
                 <ul class="box" style="position: relative;width: 333px;">
                     <li class="link_name">COMPANY</li>
-                    <li><a href="nricorner.html">NRI Corner</a></li>
-                    <li><a href="gasuites.html">GA Suites</a></li>
-                    <li><a href="disclaimer.html">Disclaimer</a></li>
-                    <li><a href="privacypolicy.html">Privacy & Policy</a></li>
-                    <li><a href="terms-and-condition.html">T & C</a></li>
-                    <li><a href="./blogs.html">Blogs</a></li>
+                    <li><a href="nricorner.aspx">NRI Corner</a></li>
+                    <li><a href="gasuites.aspx">GA Suites</a></li>
+                    <li><a href="disclaimer.aspx">Disclaimer</a></li>
+                    <li><a href="privacypolicy.aspx">Privacy & Policy</a></li>
+                    <li><a href="termsandcondition.aspx">T & C</a></li>
+                    <li><a href="./blogs.aspx">Blogs</a></li>
                     <li class="desktop">
                         <ul style="padding: 0;width: 100%;">
                             <li class="link_name" style="padding-top: 23px;">SOCIAL</li>
@@ -250,14 +250,14 @@
                 </ul>
                 <ul class="box">
                     <li class="link_name">SUPPORT</li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="feedback.html">Feedback</a></li>
+                    <li><a href="contact.aspx">Contact</a></li>
+                    <li><a href="feedback.aspx">Feedback</a></li>
     
                     <ul style="padding: 0;">
                         <li class="link_name" style="padding-top: 23px;">OTHER LINKS</li>
-                        <li><a href="villaingoa.html">Villas in Goa</a></li>
-                        <li><a href="rentalproperties.html">Rental Properties in Goa</a></li>
-                        <li><a href="beachvilla.html">Beach Villas in Goa</a></li>
+                        <li><a href="villaingoa.aspx">Villas in Goa</a></li>
+                        <li><a href="rentalproperties.aspx">Rental Properties in Goa</a></li>
+                        <li><a href="beachvilla.aspx">Beach Villas in Goa</a></li>
                     </ul>
     
                 </ul>

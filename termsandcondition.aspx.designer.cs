@@ -11,7 +11,7 @@ namespace GreenAmbitLive
 {
 
 
-    public partial class terms_and_condition
+    public partial class termsandcondition
     {
     }
 }

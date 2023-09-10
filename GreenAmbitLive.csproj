@@ -197,7 +197,7 @@
     <Content Include="serviceapartment.css" />
     <Content Include="style.css" />
     <Content Include="tc.css" />
-    <Content Include="terms-and-condition.aspx" />
+    <Content Include="termsandcondition.aspx" />
     <Content Include="villaingoa.aspx" />
     <Content Include="villaingoa.css" />
     <Content Include="villainnorth.css" />
@@ -304,12 +304,12 @@
     <Compile Include="serviceapartment.aspx.designer.cs">
       <DependentUpon>serviceapartment.aspx</DependentUpon>
     </Compile>
-    <Compile Include="terms-and-condition.aspx.cs">
-      <DependentUpon>terms-and-condition.aspx</DependentUpon>
+    <Compile Include="termsandcondition.aspx.cs">
+      <DependentUpon>termsandcondition.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="terms-and-condition.aspx.designer.cs">
-      <DependentUpon>terms-and-condition.aspx</DependentUpon>
+    <Compile Include="termsandcondition.aspx.designer.cs">
+      <DependentUpon>termsandcondition.aspx</DependentUpon>
     </Compile>
     <Compile Include="villaingoa.aspx.cs">
       <DependentUpon>villaingoa.aspx</DependentUpon>

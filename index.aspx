@@ -36,7 +36,7 @@
     <nav>
         <div class="menu">
             <div class="logo">
-                <a href="index.html">
+                <a href="http://www.greenambit.com/">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
@@ -47,8 +47,8 @@
                 <div class="hambars"></div>
             </label>
             <ul style="margin: 0;z-index: 1;position: relative;" class="deskMenu">
-                <li><a href="./index.html" class="active">Home</a></li>
-                <li><a href="./about.html">About Us</a></li>
+                <li><a href="http://www.greenambit.com/" class="active">Home</a></li>
+                <li><a href="./about.aspx">About Us</a></li>
                 <li style="position: relative;" id="shoSubMenu">
                     <a href="#">Projects <i class="fa-solid fa-chevron-down"
                             style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
@@ -60,10 +60,10 @@
                     </div>
 
                 </li>
-                <li><a href="./careers.html">Careers</a></li>
-                <li class="desktop"><a href="./blogs.html">Blogs</a></li>
-                <li class="mobile"><a href="./rentalproperties.html">Rentals</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./careers.aspx">Careers</a></li>
+                <li class="desktop"><a href="./blogs.aspx">Blogs</a></li>
+                <li class="mobile"><a href="./rentalproperties.aspx">Rentals</a></li>
+                <li><a href="./contact.aspx">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -127,19 +127,17 @@
         </div>
     </a>
     <div class="center">
-        <h2 class="title">Building the future <br> of creating Homes</h2>
+        <h2 class="title">Greenambit: Sculpting Idyllic <br />Living Spaces in North Goa</h2>
         <p class="sub_title desktop">
-            It may be interesting for you to know us as we come <br>
-            with an unbound vision dressed for success. We <br>
-            bring you an address way beyond a recognition. An <br>
-            address what you call ‘A Greenambit Living’ <br>
+            Immerse in North Goa's blissful charm, where Greenambit<br />
+            Infrastructures holiday homes bring a symphony of impeccable<br />
+            quality and enchanting design, serenading your senses.<br />            
         </p>
 
         <p class="sub_title mobile">
-            It may be interesting for you to know us as we come
-            with an unbound vision dressed for success. We
-            bring you an address way beyond a recognition. An
-            address what you call ‘A Greenambit Living’
+            Immerse in North Goa's blissful charm, where Greenambit 
+            Infrastructures holiday homes bring a symphony of impeccable 
+            quality and enchanting design, serenading your senses.
         </p>
     </div>
 
@@ -157,9 +155,9 @@
 
                 <div class="text">
                     <h2 class="desktop js-reveal">Why Goa?</h2>
-                    <p class="js-reveal">It may be interesting for you to know us as we come with
-                        an unbound vision dressed for success. We bring you an
-                        address way beyond a recognition.</p>
+                    <p class="js-reveal">Goa weaves its story of coastal paradise beautifully. It spins a tale of 
+                        golden beaches and vibrant nightlife, crafting a mosaic of serene, unforgettable experiences. 
+                        Its rich culture, a captivating melody that enchants the discerning global traveller.</p>
 
                     <div style="display: flex;">
                         <div class="img-item js-reveal">
@@ -176,7 +174,7 @@
                         </div>
                     </div>
 
-                    <a class="btnn" href="whyGoa.html" style="display: block; text-decoration: none;">
+                    <a class="btnn" href="whyGoa.aspx" style="display: block; text-decoration: none;">
                         <button class="btn-1">
                             <p style="margin-bottom: 0;">Read More </p><i class="fa-solid fa-arrow-right"></i>
                         </button>
@@ -193,26 +191,14 @@
     <div class="third-container">
         <div class="our-project">
             <h2 class="js-reveal">Our Projects</h2>
-            <p class="desk-descr js-reveal">It may be interesting for you to know
-                us as we come with an unbound vision
-                dressed for success. We bring you an
-                address way beyond a recognition.
+            <p class="desk-descr js-reveal">In the embrace of North Goa's gentle breeze, Greenambit Infrastructures paints a dreamscape of holiday homes. Whispers of impeccable quality and ethereal design choreograph through all villas for sale in North Goa and apartments for sale in North Goa, a testament to our unwavering dedication. Timely delivery, proficient rental management, a promise of potential maximum appreciation, and bountiful rental income.
             </p>
             <p class="desk-descr js-reveal">
-                It may be interesting for you to know
-                us as we come with an unbound vision
-                dressed for success. We bring you an
-                address way beyond a recognition.
+                Each crafted independent home for sale in Goa is a poetic echo of our deep connection to the real estate realm. Nestled amidst the serenity of North Goa, these tales of dedication to excellence serenade the soul. A real estate journey, not just walked but felt, setting us apart in a dance of enchantment.
             </p>
             <p class="mobileDescr">
-                It may be interesting for you to know
-                us as we come with an unbound vision
-                dressed for success. We bring you an
-                address way beyond a recognition. <br><br>
-                It may be interesting for you to know
-                us as we come with an unbound vision
-                dressed for success. We bring you an
-                address way beyond a recognition.
+                In the embrace of North Goa's gentle breeze, Greenambit Infrastructures paints a dreamscape of holiday homes. Whispers of impeccable quality and ethereal design choreograph through all villas for sale in North Goa and apartments for sale in North Goa, a testament to our unwavering dedication. Timely delivery, proficient rental management, a promise of potential maximum appreciation, and bountiful rental income. <br><br>
+               Each crafted independent home for sale in Goa is a poetic echo of our deep connection to the real estate realm. Nestled amidst the serenity of North Goa, these tales of dedication to excellence serenade the soul. A real estate journey, not just walked but felt, setting us apart in a dance of enchantment.
             </p>
 
         </div>
@@ -255,41 +241,35 @@
             <div class="text-col">
 
                 <div class="rent-info js-reveal">
-                    <h2 class="desktop">Rent with us</h2>
+                    <h2 class="desktop">Rental Management</h2>
 
                     <p class="rent-info-detail desktop">
-                        It may be interesting for you to know us as we come with <br>
-                        an unbound vision dressed for success. We bring you an <br>
-                        address way beyond a recognition.
+                        In the heart of Greenambit Infrastructures, we weave dreams <br />
+                        into reality, turning your Villa in North Goa and Apartments<br /> 
+                        in North into whispers of potential income. Always ready, always <br /> 
+                        waiting, a testament to our expertise and years of experience.<br />
+                         Many a satisfied homeowner's tale, a ballet of joy under our care.
+                        <br /><br />
+                        Complete transparency, our solemn vow, where real-time tales of<br /> 
+                        bookings and revenue unfold. By the 10th of each month, the gentle<br /> 
+                        rhythm of effortless payouts serenades your bank. Expert hands <br />
+                        cradle your sanctuary, mending and tending, crafting a symphony of <br />
+                        comfort and prosperity in every corner.
                     </p>
+                   
                     <p class="rent-info-detail mobile">
-                        It may be interesting for you to know us as we come with
-                        an unbound vision dressed for success. We bring you an
-                        address way beyond a recognition.
+                        In the heart of Greenambit Infrastructures, we weave dreams 
+                        into reality, turning your Villa in North Goa and Apartments 
+                        in North into whispers of potential income. Always ready, always waiting, 
+                        a testament to our expertise and years of experience. Many a 
+                        satisfied homeowner's tale, a ballet of joy under our care.<br /><br />
+                         Complete transparency, our solemn vow, where real-time tales of 
+                        bookings and revenue unfold. By the 10th of each month, the gentle 
+                        rhythm of effortless payouts serenades your bank. Expert hands 
+                        cradle your sanctuary, mending and tending, crafting a symphony of 
+                        comfort and prosperity in every corner.
                     </p>
-                    <br>
-
-                    <p class="desktop">1. dressed for success. We bring you an address way <br>
-                        beyond a recognition. <br>
-                    </p>
-                    <p class="mobile">1. dressed for success. We bring you an address way
-                        beyond a recognition.
-                    </p>
-                    <br>
-
-                    <p class="desktop">2. dressed for success. We bring you an address way <br>
-                        beyond a recognition. <br>
-                    </p>
-                    <p class="mobile">2. dressed for success. We bring you an address way
-                        beyond a recognition.
-                    </p>
-                    <br>
-                    <p class="desktop">3. dressed for success. We bring you an address way <br>
-                        beyond a recognition.<br>
-                    </p>
-                    <p class="mobile">3. dressed for success. We bring you an address way
-                        beyond a recognition.
-                    </p>
+                    <br>                    
                     <div class="btnn">
                         <button class="btn-1 scrl2btm">REACH OUT TO US <i class="fa-solid fa-arrow-right"></i></button>
                     </div>
@@ -321,43 +301,65 @@
                             <div class="carousel-item active">
                                 <h2>Raghav Vashisht</h2>
                                 <p class="desktop js-reveal">
-                                    I have my holiday home in Himachal but Goa has <br> always been a
-                                    dream. Calissa finally fulfilled. Now <br>
-                                    I am waiting for possession and endless stays <br>
-                                    in Goa.
+                                   "Greenambit transformed my property investment journey! <br />
+                                    From the moment I partnered with them, every step felt<br />
+                                    effortless. Their expertise shone through, turning what <br />
+                                    I expected to be a complex process into a delightful <br />
+                                    experience. I felt supported and valued at every turn."
                                 </p>
                                 <p class="mobile">
-                                    I have my holiday home in Himachal but Goa has always been a
-                                    dream. Calissa finally fulfilled. Now I am waiting for possession and endless stays
-                                    in Goa.
+                                    "Greenambit transformed my property investment journey! 
+                                    From the moment I partnered with them, every step felt
+                                    effortless. Their expertise shone through, turning what 
+                                    I expected to be a complex process into a delightful 
+                                    experience. I felt supported and valued at every turn."
                                 </p>
                             </div>
                             <div class="carousel-item">
-                                <h2>Raghav Vashisht</h2>
+                                <h2>Rajkumar Jaiswal</h2>
                                 <p class="desktop">
-                                    I have my holiday home in Himachal but Goa has <br> always been a
-                                    dream. Calissa finally fulfilled. Now <br>
-                                    I am waiting for possession and endless stays <br>
-                                    in Goa.
+                                     "Discovering Greenambit was like finding a hidden gem. Not only<br /> 
+                                    did I secure the perfect holiday home, but the returns on my <br />
+                                    investment are beyond my expectations. Every time I visit, <br />
+                                    it feels like a dream, and knowing the returns are consistent <br />
+                                    is just the icing on the cake."
                                 </p>
                                 <p class="mobile">
-                                    I have my holiday home in Himachal but Goa has always been a
-                                    dream. Calissa finally fulfilled. Now I am waiting for possession and endless stays
-                                    in Goa.
+                                    "Discovering Greenambit was like finding a hidden gem. Not only 
+                                    did I secure the perfect holiday home, but the returns on my 
+                                    investment are beyond my expectations. Every time I visit, 
+                                    it feels like a dream, and knowing the returns are consistent 
+                                    is just the icing on the cake."
                                 </p>
                             </div>
                             <div class="carousel-item">
-                                <h2>Raghav Vashisht</h2>
+                                <h2>Chandni Bubber</h2>
                                 <p class="desktop">
-                                    I have my holiday home in Himachal but Goa has <br> always been a
-                                    dream. Calissa finally fulfilled. Now <br>
-                                    I am waiting for possession and endless stays <br>
-                                    in Goa.
+                                   "The transparency and efficiency Greenambit offers are truly <br />
+                                    unparalleled. My earnings arrive punctually every month, and <br />
+                                    their commitment to keeping things transparent has given me such <br />
+                                    peace of mind. And, I think, it's not just about the returns; <br />
+                                    it's the trust and relationship they've built with me that sets them apart."
                                 </p>
                                 <p class="mobile">
-                                    I have my holiday home in Himachal but Goa has always been a
-                                    dream. Calissa finally fulfilled. Now I am waiting for possession and endless stays
-                                    in Goa.
+                                    "The transparency and efficiency Greenambit offers are truly 
+                                    unparalleled. My earnings arrive punctually every month, and 
+                                    their commitment to keeping things transparent has given me such 
+                                    peace of mind. And, I think, it's not just about the returns; 
+                                    it's the trust and relationship they've built with me that sets them apart."
+                                </p>
+                            </div>
+                            <div class="carousel-item">
+                                <h2>Arun Mital</h2>
+                                <p class="desktop">
+                                   "I entrusted my holiday home to Greenambit, and they exceeded<br />
+                                    my expectations. Their expert management team took great care<br /> 
+                                    of my property."
+                                </p>
+                                <p class="mobile">
+                                    "I entrusted my holiday home to Greenambit, and they exceeded
+                                    my expectations. Their expert management team took great care 
+                                    of my property."
                                 </p>
                             </div>
                         </div>
@@ -436,12 +438,12 @@
                 </ul>
                 <ul class="box js-reveal" style="position: relative; padding: 0; margin-left: 5%;">
                     <li class="link_name">COMPANY</li>
-                    <li><a href="nricorner.html">NRI Corner</a></li>
-                    <li><a href="gasuites.html">GA Suites</a></li>
-                    <li><a href="disclaimer.html">Disclaimer</a></li>
-                    <li><a href="privacypolicy.html">Privacy & Policy</a></li>
-                    <li><a href="terms-and-condition.html">T & C</a></li>
-                    <li><a href="./blogs.html">Blogs</a></li>
+                    <li><a href="nricorner.aspx">NRI Corner</a></li>
+                    <li><a href="gasuites.aspx">GA Suites</a></li>
+                    <li><a href="disclaimer.aspx">Disclaimer</a></li>
+                    <li><a href="privacypolicy.aspx">Privacy & Policy</a></li>
+                    <li><a href="termsandcondition.aspx">T & C</a></li>
+                    <li><a href="./blogs.aspx">Blogs</a></li>
                     <li class="desktop">
                         <ul style="padding: 0;width: 100%;">
                             <li class="link_name" style="padding-top: 23px;">SOCIAL</li>
@@ -488,14 +490,14 @@
                 </ul>
                 <ul class="box js-reveal" style="padding: 0; margin-left: 5%;">
                     <li class="link_name">SUPPORT</li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="feedback.html">Feedback</a></li>
+                    <li><a href="contact.aspx">Contact</a></li>
+                    <li><a href="feedback.aspx">Feedback</a></li>
 
                     <ul style="padding: 0;">
                         <li class="link_name" style="padding-top: 23px;">OTHER LINKS</li>
-                        <li><a href="villaingoa.html">Villas in Goa</a></li>
-                        <li><a href="rentalproperties.html">Rental Properties in Goa</a></li>
-                        <li><a href="beachvilla.html">Beach Villas in Goa</a></li>
+                        <li><a href="villaingoa.aspx">Villas in Goa</a></li>
+                        <li><a href="rentalproperties.aspx">Rental Properties in Goa</a></li>
+                        <li><a href="beachvilla.aspx">Beach Villas in Goa</a></li>
                     </ul>
 
                 </ul>
@@ -584,6 +586,65 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+<script>
+    $(document).ready(function () {
+        $('.subMenu li').on({
+            'mouseenter': function () {
+                $('#shoSubMenu').addClass('showShown');
+            },
+            'mouseleave': function () {
+                $('#shoSubMenu').removeClass('showShown');
+            }
+        });
 
+        let isChecked = false;
+        $('.hamburger').on('click', function () {
+            isChecked = isChecked ? false : true;
+            if (isChecked) {
+                $('.mobile-menu').css('transform', 'translateX(0%)');
+                $('ul.deskMenu').find('li').find('ul').removeAttr('class');
+                $('.menu-contanier ul').html($('.hamburger').next().html());
+            } else {
+                $('.mobile-menu').css('transform', 'translateX(-100%)');
+                $('ul.deskMenu').find('li').find('ul').addClass('subMenu');
+            }
+            $('.sec-container,.third-container,.fourth-container,.fifth-container,.sixth-container,footer').toggle();
+        });
+
+        $(document).on('click', 'li#shoSubMenu', function () {
+            $(this).find('ul').slideToggle();
+            $("#shoSubMenu i").eq(1).hasClass('fa-chevron-down') ? $("#shoSubMenu i").eq(1).removeClass('fa-chevron-down').addClass('fa-chevron-up') : $("#shoSubMenu i").eq(1).removeClass('fa-chevron-up').addClass('fa-chevron-down');
+        });
+
+        function openPage(pageUrl) {
+            window.open(pageUrl, "_self");
+        }
+        $.fn.scrollReveal();
+    });
+
+
+    $('.scrl2btm').click(function () {
+        $('html, body').animate({
+            scrollTop: $('.contact-box.js-reveal').offset().top-90
+        }, 1000);
+        return false;
+    });
+
+
+    function SubMenuonPhone() {
+        if ($(window).width() < 1200) {
+            $(".onPhoneUnwrap").unwrap();
+        }
+    }
+    SubMenuonPhone();
+    // $(window).on('resize', function () {
+    //     SubMenuonPhone();
+    // });
+
+    var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq ||
+        { widgetcode: "40ff8dba45fd15e4347c69b49cbbc1d8069a29167c93a5d2f492b6f0b402c9ddecbe33e741b388ef61c19b24c5955c63", values: {}, ready: function () { } };
+    var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true;
+    s.src = "https://salesiq.zoho.in/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); d.write("<div id='zsiqwidget'></div>");
+</script>
 
 </html>

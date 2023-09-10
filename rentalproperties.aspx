@@ -19,7 +19,7 @@
     <nav>
         <div class="menu">
             <div class="logo">
-                <a href="index.html">
+                <a href="http://www.greenambit.com/">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
@@ -30,8 +30,8 @@
                 <div class="hambars"></div>
             </label>
             <ul style="margin: 0;z-index: 1;position: relative;" class="deskMenu">
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./about.html">About Us</a></li>
+                <li><a href="http://www.greenambit.com/">Home</a></li>
+                <li><a href="./about.aspx">About Us</a></li>
                 <li style="position: relative;" id="shoSubMenu">
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
@@ -41,10 +41,10 @@
                         </ul>
                    </div>
                 </li>
-                <li><a href="./careers.html">Careers</a></li>
-                <li class="desktop"><a href="./blogs.html">Blogs</a></li>
-                <li class="mobile"><a href="./rentalproperties.html">Rentals</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./careers.aspx">Careers</a></li>
+                <li class="desktop"><a href="./blogs.aspx">Blogs</a></li>
+                <li class="mobile"><a href="./rentalproperties.aspx">Rentals</a></li>
+                <li><a href="./contact.aspx">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -92,12 +92,12 @@
 
     <div class="tag-line">
         <div class="tagline-wrapper">
-            <a href="./rentalproperties.html" class="button" style="font-weight: 500; background: #EAECE3;">Rental properties in Goa</a>
-            <a href="./villainnorth.html" class="button">Villas in North Goa</a>
-            <a href="./serviceapartment.html" class="button">Serviced Apartment in Goa</a>
-            <a href="./beachvilla.html" class="button">Beach Villas in Goa</a>
-            <a href="./apartmentgoa.html" class="button">Studio Apartments in Goa</a>
-            <a href="./villaingoa.html" class="button">Villas in Goa</a>
+            <a href="./rentalproperties.aspx" class="button" style="font-weight: 500; background: #EAECE3;">Rental properties in Goa</a>
+            <a href="./villainnorth.aspx" class="button">Villas in North Goa</a>
+            <a href="./serviceapartment.aspx" class="button">Serviced Apartment in Goa</a>
+            <a href="./beachvilla.aspx" class="button">Beach Villas in Goa</a>
+            <a href="./apartmentgoa.aspx" class="button">Studio Apartments in Goa</a>
+            <a href="./villaingoa.aspx" class="button">Villas in Goa</a>
         </div>
 
     </div>
@@ -105,56 +105,41 @@
     <div class="main-container">
         <div class="row">
             <div class="column desktop">
-                <h1>Can’t decide <br>
-                where to stay in <br>
-                Goa? Here’s all the <br>
-                Help you need</h1>
+                <h1>North Goa:  <br>
+                The Gilded <br>
+                Investment Oasis <br>
+                </h1>
             </div>
             <div class="column mobile">
-                <h1>Can’t decide where to stay in Goa? Here’s all the Help you need
+                <h1>North Goa: The Gilded Investment Oasis
             </div>
             <div class="column">
-                <p>Getting a hotel room is so behind the times. Renting a1 BHK flat in Goa or a 2
-                BHK property in Goa is profitable. You can stay together with your group and
-                enjoy the flexibility, privacy, and the freedom that is missing in hotels and
-                resorts. You can spread out and relax. The bed, food, and everything else can be
-                according to your wishes. It’s your holiday, and you will own it by having it
-                whatever way you wish.</p>
+                <p>Cradled by India's western coastline, North Goa whispers tales of golden sands and age-old traditions. Here, the allure of rental properties, especially the holiday homes and villas in North Goa, beckons investors from distant shores. Greenambit Infrastructures, the sculptor of this real estate narrative, moulds luxury villas, each an ode to exquisite living and a beacon of prosperous returns.</p>
 
 
-                <h2 style="margin: 11px 0 21px 0; font-size: 16px;">Key Benefits Of Vacation Rental Property In Goa</h2>
+               <%-- <h2 style="margin: 11px 0 21px 0; font-size: 16px;">Key Benefits Of Vacation Rental Property In Goa</h2>--%>
 
-                <h2>1. You get your own kitchen!</h2>
+                <h2>Rental Villas: North Goa's Enchanted Offerings</h2>
 
-                <p>When your holiday apartment isn’t just a box you have been fitted into, a whole
-                world of possibilities occurs. That includes a kitchen where you can cook all you
-                like. Moreover, you have every appreciated kitchen service you want in a foreign
-                land. So, you don’t need to go in search of restaurants for exclusive meals.
-                Besides, this comes even handier if you have kids or someone with special
-                dietary demands. What’s even better is that some apartments even allow you to
-                hire a chef (with additional charges) in case you don’t want to do much cooking.</p>
+                <p>The saga of rental villas in North Goa has flourished, echoing with each gentle wave. These havens, either cocooned amidst verdant foliage or gazing upon the expansive cerulean of the Arabian Sea, are sanctuaries of comfort, grandeur, and nature's bounty.</p>
 
-                <h2>2. No Splitting of Your Family or Friends</h2>
+                <h2>North Goa: The Symphony of Prosperity</h2>
 
-                <p>For most hotels, it’s impossible to keep the entire group under the same roof.
-                But, that’s not the case with 1 BHK or 2 BHK flats in Goa. These rental flats are
-                more like homes but in a much more relaxed foreign destination. So, you can
-                spend your time together and have access to privacy without interruptions.
-                That’s exactly how we all dream our holidays to be!</p>
+                <p>To invest in a villa in North Goa is to weave a tale of dreams and dividends. Whether a solitary silhouette against the horizon or a poetic bungalow, each resonates with a unique allure. These holiday homes, tranquil retreats, lie close to vibrant attractions, making them the perfect note in the vacation rental melody, a harmonious rhythm of income.</p>
 
-                <h2>3. Schedule? What’s that?</h2>
+                <h2>Golden Returns: North Goa's Timeless Promise</h2>
 
-                <p>Hotels come with strict schedules. For example, the fixed breakfast timings you
-                have to get up for. But, apartment rentals in Goa provide much more freedom.
-                For example, if you and your group are living in one of the 2 BHK flats in Goa,
-                time won’t be the limit to your independence. Therefore, you can just forget the
-                stress of doing things according to the clock. You get up when you want and do
-                things whenever you wish to.</p>
+                <p>North Goa's vibrant tourism paints a tableau of luminous opportunities. A villa here isn't merely a structure; it's a gateway to rhythmic rental rewards. The allure of gleaming yields, harmonized with property appreciation, crafts a tale of bountiful ventures.</p>
 
-                <h3>The Calissa is located strategically to help you discover Goa coherently. With
-                amazing villas for sale in North Goa, Greenambit is sure to make your life full
-                of fun and pleasure in future when these villas are launched.</h3>
-
+              <h2>Crafting Dreams Amidst North Goa's Lush Vistas</h2>
+                <p>
+                    In the quest for that idyllic sanctuary in North Goa, one must consider the locale's whispers, the pathways of connectivity, and the legacy of the master builder. We've carved dreams here, turning villas in North Goa into havens of tranquillity and elegance, perfect for those seeking a holiday home in North Goa, echoing luxury amidst nature's sonnet.
+                </p>
+                <h2>A Tribute to North Goan Villas</h2>
+                <p>For those with dreams of a holiday home in North Goa, or a canvas to paint life's memories or even a golden investment, North Goa offers a myriad of choices. From the opulence of luxury villas to the charm of independent homes, the melody plays on. In this crescendo of demand, the moment to engulf North Goa's real estate promise is now. </p><br />
+                <p>
+                    As the sun sets, casting a golden hue on the villas in North Goa, the promise of a serene tomorrow beckons. Each villa, a testament to architectural brilliance and nature's grace, stands as a symbol of North Goa's timeless allure. The dance of palm trees, the song of the waves, and the luxury of these homes come together in a harmonious ballet, inviting you to be a part of this enchanting world.
+                </p>
             </div>
         </div>
     </div>
@@ -202,12 +187,12 @@
                 </ul>
                 <ul class="box" style="position: relative;width: 333px;">
                     <li class="link_name">COMPANY</li>
-                    <li><a href="nricorner.html">NRI Corner</a></li>
-                    <li><a href="gasuites.html">GA Suites</a></li>
-                    <li><a href="disclaimer.html">Disclaimer</a></li>
-                    <li><a href="privacypolicy.html">Privacy & Policy</a></li>
-                    <li><a href="terms-and-condition.html">T & C</a></li>
-                    <li><a href="./blogs.html">Blogs</a></li>
+                    <li><a href="nricorner.aspx">NRI Corner</a></li>
+                    <li><a href="gasuites.aspx">GA Suites</a></li>
+                    <li><a href="disclaimer.aspx">Disclaimer</a></li>
+                    <li><a href="privacypolicy.aspx">Privacy & Policy</a></li>
+                    <li><a href="termsandcondition.aspx">T & C</a></li>
+                    <li><a href="./blogs.aspx">Blogs</a></li>
                     <li class="desktop">
                         <ul style="padding: 0;width: 100%;">
                             <li class="link_name" style="padding-top: 23px;">SOCIAL</li>
@@ -239,14 +224,14 @@
                 </ul>
                 <ul class="box">
                     <li class="link_name">SUPPORT</li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="feedback.html">Feedback</a></li>
+                    <li><a href="contact.aspx">Contact</a></li>
+                    <li><a href="feedback.aspx">Feedback</a></li>
     
                     <ul style="padding: 0;">
                         <li class="link_name" style="padding-top: 23px;">OTHER LINKS</li>
-                        <li><a href="villaingoa.html">Villas in Goa</a></li>
-                        <li><a href="rentalproperties.html">Rental Properties in Goa</a></li>
-                        <li><a href="beachvilla.html">Beach Villas in Goa</a></li>
+                        <li><a href="villaingoa.aspx">Villas in Goa</a></li>
+                        <li><a href="rentalproperties.aspx">Rental Properties in Goa</a></li>
+                        <li><a href="beachvilla.aspx">Beach Villas in Goa</a></li>
                     </ul>
     
                 </ul>

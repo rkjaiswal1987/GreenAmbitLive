@@ -18,7 +18,7 @@
     <nav>
         <div class="menu">
             <div class="logo">
-                <a href="index.html">
+                <a href="http://www.greenambit.com/">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
@@ -30,8 +30,8 @@
             </label>
             <ul style="margin: 0;z-index: 1;position: relative;" class="deskMenu">
 
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./about.html">About Us</a></li>
+                <li><a href="http://www.greenambit.com/">Home</a></li>
+                <li><a href="./about.aspx">About Us</a></li>
                 <li style="position: relative;" id="shoSubMenu">
                     <a href="#">Projects <i class="fa-solid fa-chevron-down"
                             style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
@@ -42,10 +42,10 @@
                         </ul>
                     </div>
                 </li>
-                <li><a href="./careers.html">Careers</a></li>
-                <li class="desktop"><a href="./blogs.html">Blogs</a></li>
-                <li class="mobile"><a href="./rentalproperties.html">Rentals</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./careers.aspx">Careers</a></li>
+                <li class="desktop"><a href="./blogs.aspx">Blogs</a></li>
+                <li class="mobile"><a href="./rentalproperties.aspx">Rentals</a></li>
+                <li><a href="./contact.aspx">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -101,13 +101,13 @@
 
     <div class="tag-line">
         <div class="tagline-wrapper">
-            <a href="./rentalproperties.html" class="button">Rental properties in Goa</a>
-            <a href="./villainnorth.html" class="button">Villas in North Goa</a>
-            <a href="./serviceapartment.html" class="button">Serviced Apartment in Goa</a>
-            <a href="./beachvilla.html" class="button">Beach Villas in Goa</a>
-            <a href="./apartmentgoa.html" class="button" style="font-weight: 500; background: #EAECE3">Studio Apartments
+            <a href="./rentalproperties.aspx" class="button">Rental properties in Goa</a>
+            <a href="./villainnorth.aspx" class="button">Villas in North Goa</a>
+            <a href="./serviceapartment.aspx" class="button">Serviced Apartment in Goa</a>
+            <a href="./beachvilla.aspx" class="button">Beach Villas in Goa</a>
+            <a href="./apartmentgoa.aspx" class="button" style="font-weight: 500; background: #EAECE3">Studio Apartments
                 in Goa</a>
-            <a href="./villaingoa.html" class="button">Villas in Goa</a>
+            <a href="./villaingoa.aspx" class="button">Villas in Goa</a>
         </div>
     </div>
 
@@ -216,12 +216,12 @@
                 </ul>
                 <ul class="box" style="position: relative;width: 333px;">
                     <li class="link_name">COMPANY</li>
-                    <li><a href="nricorner.html">NRI Corner</a></li>
-                    <li><a href="gasuites.html">GA Suites</a></li>
-                    <li><a href="disclaimer.html">Disclaimer</a></li>
-                    <li><a href="privacypolicy.html">Privacy & Policy</a></li>
-                    <li><a href="terms-and-condition.html">T & C</a></li>
-                    <li><a href="./blogs.html">Blogs</a></li>
+                    <li><a href="nricorner.aspx">NRI Corner</a></li>
+                    <li><a href="gasuites.aspx">GA Suites</a></li>
+                    <li><a href="disclaimer.aspx">Disclaimer</a></li>
+                    <li><a href="privacypolicy.aspx">Privacy & Policy</a></li>
+                    <li><a href="termsandcondition.aspx">T & C</a></li>
+                    <li><a href="./blogs.aspx">Blogs</a></li>
                     <li class="desktop">
                         <ul style="padding: 0;width: 100%;">
                             <li class="link_name" style="padding-top: 23px;">SOCIAL</li>
@@ -264,14 +264,14 @@
                 </ul>
                 <ul class="box">
                     <li class="link_name">SUPPORT</li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="feedback.html">Feedback</a></li>
+                    <li><a href="contact.aspx">Contact</a></li>
+                    <li><a href="feedback.aspx">Feedback</a></li>
 
                     <ul style="padding: 0;">
                         <li class="link_name" style="padding-top: 23px;">OTHER LINKS</li>
-                        <li><a href="villaingoa.html">Villas in Goa</a></li>
-                        <li><a href="rentalproperties.html">Rental Properties in Goa</a></li>
-                        <li><a href="beachvilla.html">Beach Villas in Goa</a></li>
+                        <li><a href="villaingoa.aspx">Villas in Goa</a></li>
+                        <li><a href="rentalproperties.aspx">Rental Properties in Goa</a></li>
+                        <li><a href="beachvilla.aspx">Beach Villas in Goa</a></li>
                     </ul>
                 </ul>
                 <ul class="box desktop" style="position: relative; padding-left: 0;width: 444px;z-index: 9;">
@@ -360,7 +360,6 @@
                 }
             });
 
-
             let isChecked = false;
             $('.hamburger').on('click', function () {
                 isChecked = isChecked ? false : true;
@@ -368,13 +367,11 @@
                     $('.mobile-menu').css('transform', 'translateX(0%)');
                     $('ul.deskMenu').find('li').find('ul').removeAttr('class');
                     $('.menu-contanier ul').html($('.hamburger').next().html());
-                    $('.img').css('height', '100vh');
                 } else {
                     $('.mobile-menu').css('transform', 'translateX(-100%)');
                     $('ul.deskMenu').find('li').find('ul').addClass('subMenu');
-                    $('.img').css('height', '');
                 }
-                $('.tag-line,.main-container,footer').toggle();
+                $('.sec-container,.third-container,.fourth-container,.fifth-container,.sixth-container,footer').toggle();
             });
 
             $(document).on('click', 'li#shoSubMenu', function () {
@@ -383,8 +380,19 @@
 
             });
 
+            $(window).scrollTop(800);
+            setTimeout(function () {
+                $(window).scrollTop(0);
+            }, 800);
         });
 
+
+        $('.scrl2btm').click(function () {
+            $('html, body').animate({
+                scrollTop: $('.contact-box').offset().top - 90
+            }, 1500);
+            return false;
+        });
 
         function SubMenuonPhone() {
             if ($(window).width() < 1200) {
@@ -395,16 +403,11 @@
         // $(window).on('resize', function () {
         //     SubMenuonPhone();
         // });
-        $('.scrl2btm').click(function () {
-        $('html, body').animate({
-            scrollTop: $(document).height()
-        }, 800);
-        return false;
-    });
+
         var $zoho = $zoho || {}; $zoho.salesiq = $zoho.salesiq ||
-        { widgetcode: "40ff8dba45fd15e4347c69b49cbbc1d8069a29167c93a5d2f492b6f0b402c9ddecbe33e741b388ef61c19b24c5955c63", values: {}, ready: function () { } };
-    var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true;
-    s.src = "https://salesiq.zoho.in/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); d.write("<div id='zsiqwidget'></div>");
-    </script>
+            { widgetcode: "40ff8dba45fd15e4347c69b49cbbc1d8069a29167c93a5d2f492b6f0b402c9ddecbe33e741b388ef61c19b24c5955c63", values: {}, ready: function () { } };
+        var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true;
+        s.src = "https://salesiq.zoho.in/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); d.write("<div id='zsiqwidget'></div>");
+</script>
 </body>
 </html>

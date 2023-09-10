@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace GreenAmbitLive
 {
-    public partial class terms_and_condition : System.Web.UI.Page
+    public partial class termsandcondition : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

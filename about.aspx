@@ -18,7 +18,7 @@
     <nav>
         <div class="menu">
             <div class="logo">
-                <a href="index.html">
+                <a href="http://www.greenambit.com/">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
@@ -29,8 +29,8 @@
                 <div class="hambars"></div>
             </label>
             <ul style="margin: 0;z-index: 1;position: relative;" class="deskMenu">
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./about.html" class="active">About Us</a></li>
+                <li><a href="http://www.greenambit.com/">Home</a></li>
+                <li><a href="./about.aspx" class="active">About Us</a></li>
                 <li style="position: relative;" id="shoSubMenu">
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
@@ -40,10 +40,10 @@
                         </ul>
                    </div>
                 </li>
-                <li><a href="./careers.html">Careers</a></li>
-                <li class="desktop"><a href="./blogs.html">Blogs</a></li>
-                <li class="mobile"><a href="./rentalproperties.html">Rentals</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./careers.aspx">Careers</a></li>
+                <li class="desktop"><a href="./blogs.aspx">Blogs</a></li>
+                <li class="mobile"><a href="./rentalproperties.aspx">Rentals</a></li>
+                <li><a href="./contact.aspx">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -87,8 +87,8 @@
 
     <div class="img"></div>
     <div class="center">
-        <h2 class="title desktop">Discover your ideal Goa space <br> with our assitance</h2>
-        <h2 class="title mobile">Discover your ideal Goa space with our assitance</h2>
+        <h2 class="title desktop">North Goa's Elysium: <br>Dream Homes Amidst Nature's Lullaby</h2>
+        <h2 class="title mobile">North Goa's Elysium: Dream Homes Amidst Nature's Lullaby</h2>
         <div class="btn">
             <button class="button scrl2btm">
                 LET'S TALK ABOUT IT <i class="fa-solid fa-arrow-right" style="margin-left: 30px; transform:rotate(-45deg)"></i>
@@ -108,22 +108,22 @@
                     <div style="display: flex; flex-direction: column;">
                         <h2>About Us</h2>
                     <p class="desktop">
-                        It may be interesting for you to know us as we come with
-                        an <br> unbound vision dressed for success. We bring you an
-                        address <br> way beyond a recognition. <br> <br>
-
-                        It may be interesting for you to know us as we come with
-                        an <br> unbound vision dressed for success. We bring you an
-                        address <br> way beyond a recognition. <br> <br>
+                        In the pinnacle of North Goa, Greenambit Infrastructures crafts luxury villas <br>
+                        in North Goa, each a symphony of elegance and tranquillity. Since 2017, our <br>
+                        canvas has been a verdant landscape, where every stroke, every design, becomes <br>
+                        an ode to nature and modernity. A dance of architecture and innovation, ensuring <br>
+                        every Villa for sale in North Goa or apartment for sale in North Goa isn't <br>
+                        just a dwelling but a poetic investment.<br><br>
                     </p>
                     <p class="mobile">
-                        It may be interesting for you to know us as we come with
-                        an unbound vision dressed for success. We bring you an
-                        address way beyond a recognition.
-                        <br><br>
-                        It may be interesting for you to know us as we come with
-                        an unbound vision dressed for success. We bring you an
-                        address way beyond a recognition. <br><br>
+                        In the pinnacle of North Goa, Greenambit Infrastructures 
+                        crafts luxury villas in North Goa, each a symphony of 
+                        elegance and tranquillity. Since 2017, our canvas has been
+                        a verdant landscape, where every stroke, every design, 
+                        becomes an ode to nature and modernity. A dance of 
+                        architecture and innovation, ensuring every Villa for sale
+                        in North Goa or apartment for sale in North Goa isn't 
+                        just a dwelling but a poetic investment.<br><br>
                     </p>
                     </div>
 
@@ -149,25 +149,31 @@
                     <h3 style="font-family:'unbounded';font-weight: 300;margin: 22px 0;font-size: 16px;">VISION</h3>
 
                     <p class="desktop">
-                        We envision a life for you so exceptional that adds life in your <br>
-                        years by getting you close to nature, by distancing you from a <br>
-                        smart life & bringing you closer to pure green.
+                        In our vision's grand expanse, we aspire to rise as India's most <br>
+                        esteemed creator of holiday homes. With every brick laid and beam <br>
+                        set, quality reigns supreme, and time's promise is sacred. In this <br>
+                        journey, every home we craft is a testament to our dedication, <br>
+                        a symbol of our commitment to excellence.<br><br>
                     </p>
                     <p class="mobile">
-                        We envision a life for you so exceptional that adds life in your
-                        years by getting you close to nature, by distancing you from a
-                        smart life & bringing you closer to pure green. 
+                        In our vision's grand expanse, we aspire to rise as India's most 
+                        esteemed creator of holiday homes. With every brick laid and beam 
+                        set, quality reigns supreme, and time's promise is sacred. In this 
+                        journey, every home we craft is a testament to our dedication, 
+                        a symbol of our commitment to excellence.
                     </p>
                     <h3 style="font-family:'unbounded';font-weight: 300;margin: 22px 0;font-size: 16px;">MISSION</h3>
                     <p class="desktop">
-                        We envision a life for you so exceptional that adds life in your <br>
-                        years by getting you close to nature, by distancing you from a <br>
-                        smart life & bringing you closer to pure green.
+                        Carving out niches in North Goa, creating homes that resonate with <br>
+                        promise. Edifices of potential capital growth, singing melodies of <br>
+                        consistent rental yields. Every brick, every beam, a testament to <br>
+                        our commitment.
                     </p>
                     <p  class="mobile">
-                        We envision a life for you so exceptional that adds life in your
-                        years by getting you close to nature, by distancing you from a
-                        smart life & bringing you closer to pure green.
+                        Carving out niches in North Goa, creating homes that resonate with 
+                        promise. Edifices of potential capital growth, singing melodies of 
+                        consistent rental yields. Every brick, every beam, a testament to 
+                        our commitment.
                     </p>
 
                 </div>
@@ -183,26 +189,23 @@
                     <div class="wrapper" style="margin-right: 5rem;">
                         <h2>Our Beliefs</h2>
                     <p class="desktop">
-                        At Greenambit, we are committed to the responsibility and <br>
-                        honor of ourselves and others by embracing the color green.  <br>
-                        Green is not just a symbol of calmness, freshness, prosperity,  <br>
-                        and progress, but it also has many health benefits such as <br>
-                        relieving stress, soothing muscle contractions, and increasing <br>
-                        blood histamine. Our name embodies the idea of living within healthy and <br>
-                        prosperous natural spaces that inspire growth and victory <br>
-                        with opulence.
+                        In the epicentre of Greenambit Infrastructures lies a belief,<br> 
+                        profound and deep: the magic of verdant realms. Amidst the myriad<br> 
+                        homes for sale in North Goa, our essence stands tall, rooted in <br>
+                        punctuality, unwavering quality, and designs that sing. For us, <br>
+                        every independent house for sale in Goa, every holiday home in Goa, <br>
+                        every nook and cranny is a canvas of artistry and minimal upkeep, <br>
+                        amplifying the golden worth of your investment.<br>
                     </p>
                     </div>
                     <p class="mobile">
-                        At Greenambit, we are committed to the responsibility and
-                        honor of ourselves and others by embracing the color green.
-                        Green is not just a symbol of calmness, freshness, prosperity,
-                        and progress, but it also has many health benefits such as
-                        relieving stress, soothing muscle contractions, and increasing
-                        blood histamine. <br> <br>
-                        Our name embodies the idea of living within healthy and
-                        prosperous natural spaces that inspire growth and victory
-                        with opulence.
+                        In the epicentre of Greenambit Infrastructures lies a belief, 
+                        profound and deep: the magic of verdant realms. Amidst the myriad 
+                        homes for sale in North Goa, our essence stands tall, rooted in 
+                        punctuality, unwavering quality, and designs that sing. For us, 
+                        every independent house for sale in Goa, every holiday home in Goa, 
+                        every nook and cranny is a canvas of artistry and minimal upkeep, 
+                        amplifying the golden worth of your investment.
                     </p>
                         <img src="img/All Images/About Us/4th.jpg" alt="img">
                 </div>
@@ -221,28 +224,23 @@
                     <h2>Our Environment</h2>
     
                     <p class="desktop">
-                        Greenambit Infrastructure believes in being socially responsible <br>
-                        and promoting natural living. They aim to replace technology <br>
-                        with simplicity and promote natural resources for longevity and <br>
-                        healthfulness.
-                    </p>
-
-                    <p class="desktop">
-                        Greenambit Infrastructure believes in being socially responsible <br>
-                        and promoting natural living. They aim to replace technology <br>
-                        with simplicity and promote natural resources for longevity and <br>
-                        healthfulness.
-                    </p>
+                         At Greenambit Infrastructures, our bond with nature is sacred,<br> 
+                        echoing in the gentle embrace of our gated community villas in <br>
+                        North Goa. With over 400 trees sown, we've penned love letters <br>
+                        to Earth, vowing to pen more with each sunrise. In our realms, <br>
+                        technology waltzes with nature's rhythm, crafting abodes that <br>
+                        are both sustainable and snug, making our bungalows in North Goa <br>
+                        the epitome of luxury and harmony.
+                    </p>                  
                     
                     <p class="mobile">
-                        Greenambit Infrastructure believes in being socially responsible
-                        and promoting natural living. They aim to replace technology
-                        with simplicity and promote natural resources for longevity and
-                        healthfulness. <br>
-                        Greenambit Infrastructure believes in being socially responsible
-                        and promoting natural living. They aim to replace technology
-                        with simplicity and promote natural resources for longevity and
-                        healthfulness.
+                        At Greenambit Infrastructures, our bond with nature is sacred, 
+                        echoing in the gentle embrace of our gated community villas in 
+                        North Goa. With over 400 trees sown, we've penned love letters 
+                        to Earth, vowing to pen more with each sunrise. In our realms, 
+                        technology waltzes with nature's rhythm, crafting abodes that 
+                        are both sustainable and snug, making our bungalows in North Goa 
+                        the epitome of luxury and harmony.
                     </p>
                 </div>
     
@@ -293,12 +291,12 @@
                 </ul>
                 <ul class="box" style="position: relative;width: 333px;">
                     <li class="link_name">COMPANY</li>
-                    <li><a href="nricorner.html">NRI Corner</a></li>
-                    <li><a href="gasuites.html">GA Suites</a></li>
-                    <li><a href="disclaimer.html">Disclaimer</a></li>
-                    <li><a href="privacypolicy.html">Privacy & Policy</a></li>
-                    <li><a href="terms-and-condition.html">T & C</a></li>
-                    <li><a href="./blogs.html">Blogs</a></li>
+                    <li><a href="nricorner.aspx">NRI Corner</a></li>
+                    <li><a href="gasuites.aspx">GA Suites</a></li>
+                    <li><a href="disclaimer.aspx">Disclaimer</a></li>
+                    <li><a href="privacypolicy.aspx">Privacy & Policy</a></li>
+                    <li><a href="termsandcondition.aspx">T & C</a></li>
+                    <li><a href="./blogs.aspx">Blogs</a></li>
                     <li class="desktop">
                         <ul style="padding: 0;width: 100%;">
                             <li class="link_name" style="padding-top: 23px;">SOCIAL</li>
@@ -330,14 +328,14 @@
                 </ul>
                 <ul class="box">
                     <li class="link_name">SUPPORT</li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="feedback.html">Feedback</a></li>
+                    <li><a href="contact.aspx">Contact</a></li>
+                    <li><a href="feedback.aspx">Feedback</a></li>
     
                     <ul style="padding: 0;">
                         <li class="link_name" style="padding-top: 23px;">OTHER LINKS</li>
-                        <li><a href="villaingoa.html">Villas in Goa</a></li>
-                        <li><a href="rentalproperties.html">Rental Properties in Goa</a></li>
-                        <li><a href="beachvilla.html">Beach Villas in Goa</a></li>
+                        <li><a href="villaingoa.aspx">Villas in Goa</a></li>
+                        <li><a href="rentalproperties.aspx">Rental Properties in Goa</a></li>
+                        <li><a href="beachvilla.aspx">Beach Villas in Goa</a></li>
                     </ul>
     
                 </ul>

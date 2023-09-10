@@ -18,7 +18,7 @@
     <nav>
         <div class="menu">
             <div class="logo">
-                <a href="index.html">
+                <a href="http://www.greenambit.com/">
                     <img src="img/logo.png" alt="">
                 </a>
             </div>
@@ -29,8 +29,8 @@
                 <div class="hambars"></div>
             </label>
             <ul style="margin: 0;z-index: 1;position: relative;" class="deskMenu">
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="./about.html">About Us</a></li>
+                <li><a href="http://www.greenambit.com/">Home</a></li>
+                <li><a href="./about.aspx">About Us</a></li>
                 <li style="position: relative;" id="shoSubMenu">
                     <a href="#">Projects <i class="fa-solid fa-chevron-down"
                             style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
@@ -41,10 +41,10 @@
                         </ul>
                     </div>
                 </li>
-                <li><a href="./careers.html">Careers</a></li>
-                <li class="desktop"><a href="./blogs.html">Blogs</a></li>
-                <li class="mobile"><a href="./rentalproperties.html">Rentals</a></li>
-                <li><a href="./contact.html">Contact</a></li>
+                <li><a href="./careers.aspx">Careers</a></li>
+                <li class="desktop"><a href="./blogs.aspx">Blogs</a></li>
+                <li class="mobile"><a href="./rentalproperties.aspx">Rentals</a></li>
+                <li><a href="./contact.aspx">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -141,13 +141,10 @@
 
                     <h2 class="desktop">Why Goa?</h2>
 
-                    <p>Goa, one of the most popular and well-known coastal states of India, has many
-                        jewels in its crown. Whether it's about traditions or celebrations, festivals or
-                        religions, dance or music, fun or joy, health or happiness, cuisines or drinks,
-                        liquor or fenny, yoga or relaxation, peace or entertainment, Goa has it all! A
-                        blend of 40 beautiful beaches, Goa has been fascinating visitors and tourists
-                        alike. Feel yourself alive amidst the vibrant Goa culture. Be a Goan: Let us tell
-                        you 'Why'?</p>
+                    <p>Goa weaves its story of coastal paradise beautifully. It spins a tale of golden beaches and vibrant nightlife,
+                        crafting a mosaic of serene, unforgettable experiences. Its rich culture, a captivating melody that enchants 
+                        the discerning global traveller.</p><br />
+                    
 
                 </div>
             </div>
@@ -166,11 +163,13 @@
 
                     <h2 class="desktop">Peace of Mind</h2>
 
-                    <p>Life in Goa is peaceful, a welcome escape from the chaos of the urban lifestyle.
-                        People here are not driven by the urban hush bush and the ills associated with
-                        the slavery of a gadget driven life. Goans love to rest and enjoy the way life is
-                        meant to be. If you want to really feel alive, Goa can offer you a lifetime of
-                        incredible experiences</p>
+                   <p>
+                        Venturing into <b>North Goa's luxury real estate</b> is like embarking on a poetic journey. 
+                        From beachfront villas to quaint homes, each <b>holiday home</b> in Goa dances with the promise of robust returns. 
+                        These potential goldmines offer a steady stream of income from amazing <b>apartments for sale in North Goa</b>, 
+                        adding a lucrative verse to the sonnet of your investment portfolio of <b>luxury villas for sale in North Goa</b>, 
+                        a melody that sings of prosperity and peace.
+                    </p>
 
                 </div>
             </div>
@@ -199,13 +198,8 @@
 
                     <h2 class="desktop">Goan Culture</h2>
 
-                    <p>Goa, one of the most popular and well-known coastal states of India, has many
-                        jewels in its crown. Whether it's about traditions or celebrations, festivals or
-                        religions, dance or music, fun or joy, health or happiness, cuisines or drinks,
-                        liquor or fenny, yoga or relaxation, peace or entertainment, Goa has it all! A
-                        blend of 40 beautiful beaches, Goa has been fascinating visitors and tourists
-                        alike. Feel yourself alive amidst the vibrant Goa culture. Be a Goan: Let us tell
-                        you 'Why'?</p>
+                    <p>The tranquil allure of Goa beckons you. Let your thoughts meander; your comforts catered to. The North Goa experience, meticulously curated and stunningly luxurious, pledges an unparalleled seaside retreat. Gracefully designed <b>holiday homes and luxury villas for sale in North Goa</b>, each a tranquil haven nestled amidst the verdant outdoors, peering over the rhythmic rhapsody of the waves make the Goan culture explode with beauty.</p><br />
+                    <p>A symphony of cultures, a waltz of Indian and Portuguese influences, echoing in the architecture of all villas for sale in <b>North Goa</b>, resonating in the music. Vibrant festivals, a siren's song to global travellers. The Goan culture is a rich tapestry of traditions and customs woven into the fabric of everyday life. </p>
 
                 </div>
             </div>
@@ -225,11 +219,10 @@
 
                     <h2 class="desktop">Food in Goa</h2>
 
-                    <p>Life in Goa is peaceful, a welcome escape from the chaos of the urban lifestyle.
-                        People here are not driven by the urban hush bush and the ills associated with
-                        the slavery of a gadget driven life. Goans love to rest and enjoy the way life is
-                        meant to be. If you want to really feel alive, Goa can offer you a lifetime of
-                        incredible experiences</p>
+                    <p>Goa, a culinary canvas painted with diverse and delectable flavours, tempts the global gourmand, irresistible, while making an investment in <b>villas for sale in Goa</b>. Its gastronomic delights, a symphony of tastes, contribute to its allure as a cherished destination. This culinary richness, intertwined with Goa's blossoming status on the global stage, unfurls avenues for real estate investment Goa.</p><br />
+                    <p>
+                        The food sector, ripe for innovation and growth, whispering in its corners, is elucidly visible while looking for <b>villas for sale in Goa</b> From quaint local eateries to high-end restaurants, a banquet catering to a diverse palate of domestic and international tourists. Each dish, a story, each taste, a memory etched in the sands of Goa.
+                    </p>
 
                 </div>
             </div>
@@ -260,13 +253,10 @@
 
                     <h2 class="desktop">Safety & Security</h2>
 
-                    <p>Goa, one of the most popular and well-known coastal states of India, has many
-                        jewels in its crown. Whether it's about traditions or celebrations, festivals or
-                        religions, dance or music, fun or joy, health or happiness, cuisines or drinks,
-                        liquor or fenny, yoga or relaxation, peace or entertainment, Goa has it all! A
-                        blend of 40 beautiful beaches, Goa has been fascinating visitors and tourists
-                        alike. Feel yourself alive amidst the vibrant Goa culture. Be a Goan: Let us tell
-                        you 'Why'?</p>
+                    <p>Goa, a sanctuary of safety, emerges as a fortress of security. Its vigilant guardians of law and robust infrastructure stand tall, casting a protective shadow among all villas for sale in Goa. Amidst the vibrant nightlife, you can relish the pulsating rhythm of this thriving space, making it a promising venture as your holiday home.</p><br />
+                    <p>
+                        Goa's steadfast commitment to safety resonates like a whisper of peace in the coastal breeze. More than a destination to buy luxury villas for sale in Goa, it is a tranquil retreat, a sanctuary cradled in the heart of India's coastal gem, narrating a tale of serenity and prosperity. Indeed, it is a haven where safety dances with enchantment under the watchful gaze of the stars.
+                    </p>
 
                 </div>
             </div>
@@ -317,12 +307,12 @@
                 </ul>
                 <ul class="box" style="position: relative;width: 333px;">
                     <li class="link_name">COMPANY</li>
-                    <li><a href="nricorner.html">NRI Corner</a></li>
-                    <li><a href="gasuites.html">GA Suites</a></li>
-                    <li><a href="disclaimer.html">Disclaimer</a></li>
-                    <li><a href="privacypolicy.html">Privacy & Policy</a></li>
-                    <li><a href="terms-and-condition.html">T & C</a></li>
-                    <li><a href="./blogs.html">Blogs</a></li>
+                    <li><a href="nricorner.aspx">NRI Corner</a></li>
+                    <li><a href="gasuites.aspx">GA Suites</a></li>
+                    <li><a href="disclaimer.aspx">Disclaimer</a></li>
+                    <li><a href="privacypolicy.aspx">Privacy & Policy</a></li>
+                    <li><a href="termsandcondition.aspx">T & C</a></li>
+                    <li><a href="./blogs.aspx">Blogs</a></li>
                     <li class="desktop">
                         <ul style="padding: 0;width: 100%;">
                             <li class="link_name" style="padding-top: 23px;">SOCIAL</li>
@@ -369,14 +359,14 @@
                 </ul>
                 <ul class="box">
                     <li class="link_name">SUPPORT</li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="feedback.html">Feedback</a></li>
+                    <li><a href="contact.aspx">Contact</a></li>
+                    <li><a href="feedback.aspx">Feedback</a></li>
 
                     <ul style="padding: 0;">
                         <li class="link_name" style="padding-top: 23px;">OTHER LINKS</li>
-                        <li><a href="villaingoa.html">Villas in Goa</a></li>
-                        <li><a href="rentalproperties.html">Rental Properties in Goa</a></li>
-                        <li><a href="beachvilla.html">Beach Villas in Goa</a></li>
+                        <li><a href="villaingoa.aspx">Villas in Goa</a></li>
+                        <li><a href="rentalproperties.aspx">Rental Properties in Goa</a></li>
+                        <li><a href="beachvilla.aspx">Beach Villas in Goa</a></li>
                     </ul>
 
                 </ul>
