@@ -31,8 +31,52 @@
             text-decoration: none;
         }
     </style>
+    <script type="text/javascript">
+        function ValidateDropDown() {
+            if (document.getElementById('<%= name.ClientID %>').value == "Name*") {
+                alert("Please enter Name");
+                document.getElementById('<%= name.ClientID %>').focus();
+                return false;
+            }
+            if (document.getElementById('<%= email.ClientID %>').value == "Email*") {
+                alert("Email id can not be blank");
+                document.getElementById('<%= email.ClientID %>').focus();
+                return false;
+            }
+            var e = document.getElementById('<%= email.ClientID %>').value;
+            var regExpObj = /(\d\d\d)-\d\d\d\d\d\d\d\d/;
+            var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+            var e = document.getElementById('<%= email.ClientID %>').value;
+         if (reg.test(e) == false) {
+             alert('Invalid Email Address');
+             document.getElementById('<%= email.ClientID %>').value = "";
+             return false;
+         }
+         if (document.getElementById('<%= mobile.ClientID %>').value == "Phone*") {
+             alert("phone no can not be blank");
+             document.getElementById('<%= mobile.ClientID %>').focus();
+             return false;
+         }
+         var PhoneNo = document.getElementById('<%= mobile.ClientID %>').value;
+         var rePhoneNumber = new RegExp("^[0-9]{10}");
+         if (!rePhoneNumber.test(PhoneNo)) {
+             alert("Phone Number Must Be Entered As: ex 989XXXXXXXX");
+             return false;
+         }
+
+         if (document.getElementById('<%= query.ClientID %>').value == "Message") {
+             alert("Query Feild can not be blank");
+             document.getElementById('<%= query.ClientID %>').focus();
+                return false;
+            }
+
+            else
+                return true;
+        }
+    </script>
 </head>
 <body>
+    <form id="form1" runat ="server">
     <nav>
         <div class="menu">
             <div class="logo">
@@ -406,16 +450,21 @@
                         <li class="link_name cont"><img src="img/Waves-footer.png" alt="" width="45"> Connect with us
                         </li>
                         <div class="right">
-                            <form action="" method="post">
-                                <input type="text" class="field" placeholder="Name*">
+                           
+                                <input name="name" type="text" id="name" runat="server"  onblur="if(this.value == '') { this.value='Name*'}" onfocus="if (this.value == 'Name*') {this.value=''}" value="Name*" class="field"/>
+                                 <input name="email" type="text" runat="server" id="email" onblur="if(this.value == '') { this.value='Email*'}" onfocus="if (this.value == 'Email*') {this.value=''}"  value="Email*" class="field"/>
+                                 <input name="mobile" type="text" id="mobile" runat="server" onblur="if(this.value == '') { this.value='Phone*'}" onfocus="if (this.value == 'Phone*') {this.value=''}"  value="Phone*" class="field"/>
+                                <textarea name="text"   runat="server"  id="query" onblur="if(this.value == '') { this.value='Message'}" onfocus="if (this.value == 'Message') {this.value=''}" value="Message" class="field"></textarea>
+                                <asp:Button ID="btnSubmit" runat="server" Text="SEND INQUIRY" class="btn2" OnClientClick="javascript:return ValidateDropDown();" OnClick="btnSubmit_Click"/>
+                                <%--<input type="text" class="field" placeholder="Name*">
                                 <input type="text" class="field" placeholder="Email*">
                                 <input type="text" class="field" placeholder="Phone*">
                                 <input type="text" class="field" placeholder="Message">
-                                <button class="btn2">SEND INQUIRY<i class="fa-solid fa-arrow-right"></i></button>
-                            </form>
+                                <button class="btn2">SEND INQUIRY<i class="fa-solid fa-arrow-right"></i></button>--%>
+                          
                         </div>
                     </div>
-                    <div class="newsletter mobile" style="margin: 43px 0;">
+                   <%-- <div class="newsletter mobile" style="margin: 43px 0;">
                         <li class="link_name">SUBSCRIBE TO OUR NEWSLETTER</li>
                         <ul style="padding: 0;">
                             <li>
@@ -434,7 +483,7 @@
                                 </div>
                             </li>
                         </ul>
-                    </div>
+                    </div>--%>
                 </ul>
                 <ul class="box js-reveal" style="position: relative; padding: 0; margin-left: 5%;">
                     <li class="link_name">COMPANY</li>
@@ -501,7 +550,7 @@
                     </ul>
 
                 </ul>
-                <ul class="box desktop js-reveal" style="position: relative; padding-left: 0;width: 444px;z-index: 9;">
+                <%--<ul class="box desktop js-reveal" style="position: relative; padding-left: 0;width: 444px;z-index: 9;">
                     <li class="link_name" style="margin-bottom: 31px;">SUBSCRIBE TO OUR NEWSLETTER</li>
                     <ul class="social-media" style="padding: 0;">
                         <li>
@@ -524,7 +573,7 @@
                         <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
                             rights reserved</span>
                     </div>
-                </ul>
+                </ul>--%>
                 <ul class="box mobile" style="position: relative;padding: 0; margin-left: 5%;">
                     <li class="link_name">SOCIAL</li>
                     <ul class="social-media" style="padding: 0;">
@@ -585,6 +634,7 @@
     <script src="JS/jquery.scroll-reveal.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+        </form>
 </body>
 <script>
     $(document).ready(function () {
