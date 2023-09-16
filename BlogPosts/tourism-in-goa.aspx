@@ -1,21 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="tourism-in-goa.aspx.cs" Inherits="GreenAmbitLive.BlogPosts.tourism_in_goa" %>
 
-<head>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Buying Property in Goa </title>
-    <link rel="stylesheet" href="buying-property-in-goa.css">
+    <title>Tourism in Goa</title>
+    <link rel="stylesheet" href="tourism-in-goa.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="shortcut icon" href="img/favIcon.png" type="image/x-icon">
-
 </head>
-
 <body>
-
-    <nav>
+    <form id="form1" runat="server">
+         <nav>
         <div class="menu">
             <div class="logo">
                 <a href="http://www.greenambit.com/">
@@ -35,8 +35,8 @@
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
                         <ul class="subMenu onPhoneUnwrap">
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
+                           <li><a href="http://calissa.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
+                             <li><a href="http://theisadora.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
                         </ul>
                    </div>
                 </li>
@@ -86,67 +86,51 @@
     </div>
     <div class="img"></div>
     <div class="center">
-        <h2 class="title">Buying Property in Goa </h2>
+        <h2 class="title">Tourism in Goa</h2>
     </div>
 
     <div class="main-container">
         <div class="row">
             <div class="column desktop">
-                <h1>Buying Property in Goa</h1>
+                <h1>Tourism in Goa</h1>
 
               
             </div>
 
             <div class="column mobile">
-                <h1>Buying Property in Goa</h1>
+                <h1>Tourism in Goa</h1>
             </div>
 
           
             <div class="column">
                 <p>
-                    Goa, a small state on the western coast of India, is not only a popular tourist destination but also a sought-after location for property investments. The state’s natural beauty, vibrant culture, and favorable climate make it an attractive option for both domestic and international investors. In this blog, we will explore the reasons why Goa is a good destination for property investments and the factors that make it a lucrative market.
+                    Goa, a small state on the western coast of India, is a popular destination for tourists from around the world. Its sun-kissed beaches, vibrant nightlife, colonial architecture, and rich cultural heritage attract millions of visitors every year. In this blog, we will explore the tourism scene in Goa and discover some of the top attractions that make it a must-visit destination.
                 </p>
 
-                <h2>Location and Accessibility</h2>
+                <h2>Beaches</h2>
 
-                <p>Goa is well-connected to other parts of India and the world, with an international airport, a major seaport, and a network of highways and railways. This makes it easy for investors to access the state and for tourists to visit, ensuring a steady demand for rental properties.</p>
+                <p>Goa is famous for its beautiful beaches that stretch for miles along the coastline. North Goa is known for its party vibes, with beaches like Baga, Calangute, and Anjuna being the most popular among young travelers. South Goa, on the other hand, offers a more relaxed atmosphere, with beaches like Palolem, Agonda, and Colva being ideal for those seeking a quieter, more peaceful vacation.</p>
 
-                <h2>Tourism Industry</h2>
+                <h2>Water Sports</h2>
 
-                <p>Goa’s tourism industry is a major contributor to its economy, with millions of visitors flocking to the state every year. This creates a high demand for rental properties, especially during the peak season from October to March. Investors can benefit from the steady rental income and the potential for capital appreciation.</p>
+                <p>Goa is a paradise for adventure enthusiasts, with a range of water sports on offer, including parasailing, jet skiing, banana boat rides, and scuba diving. You can also take a boat ride to spot dolphins or go on a fishing trip. Water sports are available throughout the year, but the best time to indulge in them is from October to May.</p>
 
-                <h2>Stable Political Environment</h2>
+                <h2>Historical and Cultural Sites</h2>
 
-                <p>Goa has a stable political environment, with a government that is focused on promoting tourism and developing infrastructure. This ensures a favorable environment for property investments and minimizes the risks associated with political instability.
-                </p>
-                
-                <h2>Favorable Investment Climate</h2>
-
-                <p>The state government of Goa has implemented various measures to attract investments, including tax incentives, subsidies, and streamlined procedures for obtaining permits and approvals. This has created a favorable investment climate, making it easy for investors to enter the market and realize returns on their investments.
+                <p>Goa has a rich cultural heritage, with a mix of Indian and Portuguese influences. The state was ruled by the Portuguese for over 450 years, and you can see their influence in the colonial architecture of churches, forts, and other buildings. Some of the must-visit historical and cultural sites in Goa include the Basilica of Bom Jesus, Fort Aguada, Se Cathedral, and the Old Goa Church complex.
                 </p>
                 
-                <h2>High Returns on Investment</h2>
+                <h2>Nightlife</h2>
 
-                <p>Property prices in Goa are relatively lower compared to other major cities in India, making it an affordable option for investors. However, the potential for high returns on investment is significant, with rental yields ranging from 6% to 8% and capital appreciation of up to 15% per annum.</p>
-
-                <h2>Variety of Properties</h2>
-
-                <p>Goa offers a wide range of properties to suit different budgets and preferences, from luxury villas and beachfront apartments to budget-friendly studio apartments and guesthouses. Investors can choose from a variety of properties depending on their investment goals and budget.</p>
-                
-                <h2>Factors to Consider</h2>
-
-                <p style="padding-bottom: 10px;">While investing in Goa’s property market can be lucrative, investors need to consider certain factors before making a decision. These include:
+                <p>Goa is famous for its vibrant nightlife, with numerous clubs, bars, and beach shacks offering a range of entertainment options. The nightlife scene is concentrated in North Goa, with Anjuna and Baga being the most popular party destinations.
                 </p>
                 
-                <p style="padding-bottom: 10px;"><b>Location</b>: The location of the property plays a crucial role in determining its rental yields and potential for capital appreciation. Properties in popular tourist destinations like North Goa tend to generate higher returns compared to those in less-developed areas.
-                </p>
-                <p style="padding-bottom: 10px;"><b>Infrastructure</b>: The availability of infrastructure such as water, electricity, and roads is important for the rental yield and resale value of the property.
-                </p>
-                <p><b>Legal Compliance</b>: Investors need to ensure that the property they are investing in is legally compliant and has all the necessary permits and approvals.
-                </p>
+                <h2>Cuisine</h2>
+
+                <p>Goan cuisine is a fusion of Indian and Portuguese flavors, with seafood being a staple. Some of the must-try dishes include fish curry, prawn vindaloo, pork sorpotel, and bebinca (a traditional Goan dessert). You can find a range of restaurants serving Goan cuisine across the state.</p>
                 
                 <h2 style="font-weight: 500;font-size: 16px;margin-top: 41px;">
-                    Goa’s property market offers investors a unique opportunity to invest in a growing market with high returns and favorable investment climate. The state’s natural beauty, stable political environment, and booming tourism industry make it an attractive destination for property investments. However, investors need to consider various factors before making a decision and ensure that they comply with legal requirements to minimize risks and maximize returns.
+                    In conclusion, Goa is a must-visit destination for anyone looking for a mix of beaches, adventure, history, culture, and nightlife. With so much to see and do, it’s no surprise that it’s one of the most popular tourist destinations in India. Whether you’re looking for a romantic getaway, a family vacation, or an adventure-filled trip with friends, Goa has something to offer for everyone.
                 </h2>
 
                
@@ -265,7 +249,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
@@ -292,7 +276,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
@@ -338,6 +322,7 @@
        $(document).on('click','li#shoSubMenu',function(){
             $(this).find('ul').slideToggle();
             $("#shoSubMenu i").eq(1).hasClass('fa-chevron-down')?$("#shoSubMenu i").eq(1).removeClass('fa-chevron-down').addClass('fa-chevron-up'):$("#shoSubMenu i").eq(1).removeClass('fa-chevron-up').addClass('fa-chevron-down');
+
        });
         });
 
@@ -350,6 +335,7 @@
         // $(window).on('resize', function () {
         //     SubMenuonPhone();
         // });
+
         $('.scrl2btm').click(function () {
         $('html, body').animate({
             scrollTop: $(document).height()
@@ -361,6 +347,6 @@
     var d = document; s = d.createElement("script"); s.type = "text/javascript"; s.id = "zsiqscript"; s.defer = true;
     s.src = "https://salesiq.zoho.in/widget"; t = d.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t); d.write("<div id='zsiqwidget'></div>");
     </script>
+    </form>
 </body>
-
 </html>

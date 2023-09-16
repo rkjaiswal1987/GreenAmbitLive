@@ -19,7 +19,7 @@ namespace GreenAmbitLive.App_Code
                 MailMessage mail = new MailMessage();
                 SmtpClient SmtpServer = new SmtpClient();
                 mail.From = new MailAddress("greenambitlead@gmail.com", "Green Ambit Portal");
-                mail.To.Add("Kamallwadhwa2017@gmail.com,rajjaiswalstp@gmail.com");
+                mail.To.Add("rajjaiswalstp@gmail.com");
                 mail.Subject = "Green Ambit Lead";
                 string project = "Green Ambit";
                 //string Name = name.Value;

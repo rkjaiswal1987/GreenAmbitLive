@@ -36,8 +36,8 @@
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
                         <ul class="subMenu onPhoneUnwrap">
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
+                           <li><a href="http://calissa.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
+                             <li><a href="http://theisadora.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
                         </ul>
                    </div>
                 </li>
@@ -107,7 +107,7 @@
     <div class="details-info">
         <h2>Terms & Conditions</h2>
 
-        <p>Welcome to Greenambit Infrastructure. If you continue to browse and use this website, you agree to adhere to
+        <p>Welcome to Greenambit Infrastructures. If you continue to browse and use this website, you agree to adhere to
             and comply
             with the
             following terms and conditions of use, which together with our privacy policy govern Greenambit
@@ -124,7 +124,7 @@
             Infrastructure preserves the sole right to change any information without any prior notice. All rights in
             this regard
             remain with
-            Greenambit Infrastructure only.</p>
+            Greenambit Infrastructures only.</p>
 
         <p>2. This website uses cookies to monitor browsing preferences. If you do allow cookies to be used, some
             personal
@@ -135,7 +135,7 @@
         <p>3. Neither we nor any third parties provide any warranty or guarantee as to the authenticity, punctuality,
             performance,
             extensiveness or
-            aptness of the information and materials found or offered on Greenambit Infrastructure for any particular
+            aptness of the information and materials found or offered on Greenambit Infrastructures for any particular
             purpose. It is
             to be noted that
             such information and materials may at times be inaccurate or contain errors and we expressly exclude
@@ -149,7 +149,7 @@
             for the same. It shall be your own responsibility to ensure that any products, services or information
             available through
             this website meet
-            your specific requirements. Greenambit Infrastructure shall not be held accountable for any sort of damages
+            your specific requirements. Greenambit Infrastructures shall not be held accountable for any sort of damages
             arising out
             of the usage of
             or as a result of action taken by you based on information acquired from this site, including but not
@@ -157,7 +157,7 @@
             or purchase of
             property or any loss of business or profits, or any direct, indirect and significant damages.</p>
 
-        <p>5. The material and content of this website is copyrighted. Greenambit Infrastructure contains the sole right
+        <p>5. The material and content of this website is copyrighted. Greenambit Infrastructures contains the sole right
             on the
             material that
             includes, but is not limited to, the design, layout, look, content, appearance and graphics. No
@@ -171,7 +171,7 @@
         <p>6. Any unauthorized usage of this website may give rise to a claim for damages and/or can attract severe
             penalty/punishment.</p>
 
-        <p>7. From time to time Greenambit Infrastructure may also include links to other websites. These links are
+        <p>7. From time to time Greenambit Infrastructures may also include links to other websites. These links are
             provided for
             your convenience
             to provide further information. However, this, in no manner, signifies that we endorse such websites.
@@ -295,7 +295,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
@@ -322,7 +322,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>

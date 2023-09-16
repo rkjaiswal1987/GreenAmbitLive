@@ -69,14 +69,20 @@ namespace GreenAmbitLive
                     string Query = query.Value;
                     commanfunction.Email(Name,Email,Contact,Query);
                     //Response.Redirect("thankyou.html",false);
-                    Response.Redirect("http://www.greenambit.com/thankyou.html", false);
+                    Response.Redirect("http://www.greenambit.com/thankyou.aspx", false);
                 }
 
                 catch (Exception ex)
                 {
-                    throw ex;
+                    Response.Write(ex);
+                    //throw ex;
                 }
             }
+        }
+
+        protected void functionName(object sender, EventArgs e)
+        {
+            Response.Redirect("whygoa.aspx");
         }
     }
 }

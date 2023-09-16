@@ -35,8 +35,8 @@
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
                         <ul class="subMenu onPhoneUnwrap">
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
+                           <li><a href="http://calissa.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
+                             <li><a href="http://theisadora.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
                         </ul>
                    </div>
                 </li>
@@ -108,16 +108,16 @@
                     <div style="display: flex; flex-direction: column;">
                         <h2>About Us</h2>
                     <p class="desktop">
-                        In the pinnacle of North Goa, Greenambit Infrastructures crafts luxury villas <br>
-                        in North Goa, each a symphony of elegance and tranquillity. Since 2017, our <br>
-                        canvas has been a verdant landscape, where every stroke, every design, becomes <br>
-                        an ode to nature and modernity. A dance of architecture and innovation, ensuring <br>
-                        every Villa for sale in North Goa or apartment for sale in North Goa isn't <br>
-                        just a dwelling but a poetic investment.<br><br>
+                        In the pinnacle of North Goa, Greenambit Infrastructures crafts luxury Holiday homes <br>
+                        in North Goa, each a symphony of elegance and tranquillity. Since 2017, our 
+                        canvas <br>has been a verdant landscape, where every stroke, every design, becomes 
+                        an ode <br>to nature and modernity. A dance of architecture and innovation, ensuring 
+                        every <br>Villa for sale in North Goa or apartment for sale in North Goa isn't 
+                        just a dwelling <br>but a poetic investment.<br><br>
                     </p>
                     <p class="mobile">
                         In the pinnacle of North Goa, Greenambit Infrastructures 
-                        crafts luxury villas in North Goa, each a symphony of 
+                        crafts luxury villas and apartments in North Goa, each a symphony of 
                         elegance and tranquillity. Since 2017, our canvas has been
                         a verdant landscape, where every stroke, every design, 
                         becomes an ode to nature and modernity. A dance of 
@@ -358,7 +358,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
@@ -385,7 +385,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>

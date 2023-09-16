@@ -103,16 +103,16 @@
     <Content Include="apartmentgoa.css" />
     <Content Include="beachvilla.aspx" />
     <Content Include="beachvilla.css" />
+    <Content Include="BlogPosts\architecture-in-goa.aspx" />
     <Content Include="BlogPosts\architecture-in-goa.css" />
-    <Content Include="BlogPosts\architecture-in-goa.html" />
+    <Content Include="BlogPosts\buying-property-in-goa.aspx" />
     <Content Include="BlogPosts\buying-property-in-goa.css" />
-    <Content Include="BlogPosts\buying-property-in-goa.html" />
-    <Content Include="BlogPosts\rental-Income-from-properties-in-goa.html" />
+    <Content Include="BlogPosts\rental-Income-from-properties-in-goa.aspx" />
     <Content Include="BlogPosts\rental-Income-goa.css" />
+    <Content Include="BlogPosts\restaurants-in-goa.aspx" />
     <Content Include="BlogPosts\restaurants-in-goa.css" />
-    <Content Include="BlogPosts\restaurants-in-goa.html" />
+    <Content Include="BlogPosts\tourism-in-goa.aspx" />
     <Content Include="BlogPosts\tourism-in-goa.css" />
-    <Content Include="BlogPosts\tourism-in-goa.html" />
     <Content Include="blogs.aspx" />
     <Content Include="blogs.css" />
     <Content Include="careers.aspx" />
@@ -229,7 +229,7 @@
     <Content Include="tc.css" />
     <Content Include="termsandcondition.aspx" />
     <Content Include="thanks.css" />
-    <Content Include="thankyou.html" />
+    <Content Include="thankyou.aspx" />
     <Content Include="villaingoa.aspx" />
     <Content Include="villaingoa.css" />
     <Content Include="villainnorth.css" />
@@ -258,6 +258,41 @@
     </Compile>
     <Compile Include="beachvilla.aspx.designer.cs">
       <DependentUpon>beachvilla.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BlogPosts\architecture-in-goa.aspx.cs">
+      <DependentUpon>architecture-in-goa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BlogPosts\architecture-in-goa.aspx.designer.cs">
+      <DependentUpon>architecture-in-goa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BlogPosts\buying-property-in-goa.aspx.cs">
+      <DependentUpon>buying-property-in-goa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BlogPosts\buying-property-in-goa.aspx.designer.cs">
+      <DependentUpon>buying-property-in-goa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BlogPosts\rental-Income-from-properties-in-goa.aspx.cs">
+      <DependentUpon>rental-Income-from-properties-in-goa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BlogPosts\rental-Income-from-properties-in-goa.aspx.designer.cs">
+      <DependentUpon>rental-Income-from-properties-in-goa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BlogPosts\restaurants-in-goa.aspx.cs">
+      <DependentUpon>restaurants-in-goa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BlogPosts\restaurants-in-goa.aspx.designer.cs">
+      <DependentUpon>restaurants-in-goa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BlogPosts\tourism-in-goa.aspx.cs">
+      <DependentUpon>tourism-in-goa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BlogPosts\tourism-in-goa.aspx.designer.cs">
+      <DependentUpon>tourism-in-goa.aspx</DependentUpon>
     </Compile>
     <Compile Include="blogs.aspx.cs">
       <DependentUpon>blogs.aspx</DependentUpon>
@@ -343,6 +378,13 @@
     </Compile>
     <Compile Include="termsandcondition.aspx.designer.cs">
       <DependentUpon>termsandcondition.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="thankyou.aspx.cs">
+      <DependentUpon>thankyou.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="thankyou.aspx.designer.cs">
+      <DependentUpon>thankyou.aspx</DependentUpon>
     </Compile>
     <Compile Include="villaingoa.aspx.cs">
       <DependentUpon>villaingoa.aspx</DependentUpon>

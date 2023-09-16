@@ -35,8 +35,8 @@
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
                         <ul class="subMenu onPhoneUnwrap">
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
+                           <li><a href="http://calissa.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
+                             <li><a href="http://theisadora.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
                         </ul>
                    </div>
                 </li>
@@ -92,7 +92,7 @@
 
     <div class="contact">
         <h2>Contact</h2>
-        <p>You can contact Greenambit Infrastructure at the details mentioned below. The concerned department shall
+        <p>You can contact Greenambit Infrastructures at the details mentioned below. The concerned department shall
         get in touch with you within one working hour. Thank you for visiting us. We wish you a good day.</p>
     </div>
 
@@ -235,7 +235,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
@@ -262,7 +262,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>

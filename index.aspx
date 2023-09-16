@@ -98,8 +98,8 @@
                             style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
                         <ul class="subMenu onPhoneUnwrap">
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
+                            <li><a href="http://calissa.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
+                            <li><a href="http://theisadora.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
                         </ul>
                     </div>
 
@@ -171,7 +171,7 @@
         </div>
     </a>
     <div class="center">
-        <h2 class="title">Greenambit: Sculpting Idyllic <br />Living Spaces in North Goa</h2>
+        <h2 class="title">Sculpting Idyllic <br />Living Spaces in North Goa</h2>
         <p class="sub_title desktop">
             Immerse in North Goa's blissful charm, where Greenambit<br />
             Infrastructures holiday homes bring a symphony of impeccable<br />
@@ -217,12 +217,15 @@
                             <span class="details">Culture</span>
                         </div>
                     </div>
-
-                    <a class="btnn" href="whyGoa.aspx" style="display: block; text-decoration: none;">
-                        <button class="btn-1">
+                    <button runat="server" id="btnRun" onserverclick="functionName" class="btn-1" >
+     <p style="margin-bottom: 0;">Read More </p><i class="fa-solid fa-arrow-right"></i>
+</button>
+                   <%-- <a class="btnn" href="whyGoa.aspx" style="display: block; text-decoration: none;">
+                        <button class="btn-1" >
                             <p style="margin-bottom: 0;">Read More </p><i class="fa-solid fa-arrow-right"></i>
                         </button>
-                    </a>
+                    </a>--%>
+                    <%--<asp:Button ID="button1" class="btn-1 " runat="server" Text="Read More" onclientclick='redirect()' />--%>
                 </div>
 
 
@@ -277,7 +280,7 @@
 
     <div class="fourth-container">
         <div class="roww">
-            <h2 class="mobile">Rent with us</h2>
+            <h2 class="mobile">Rental Management</h2>
             <div class="img-col js-reveal">
                 <img src="img/img-6.png" alt="img">
             </div>
@@ -288,23 +291,23 @@
                     <h2 class="desktop">Rental Management</h2>
 
                     <p class="rent-info-detail desktop">
-                        In the heart of Greenambit Infrastructures, we weave dreams <br />
-                        into reality, turning your Villa in North Goa and Apartments<br /> 
-                        in North into whispers of potential income. Always ready, always <br /> 
-                        waiting, a testament to our expertise and years of experience.<br />
+                        In the heart of Greenambit Infrastructures, we weave dreams 
+                        into reality, turning your Villa in North Goa and Apartments
+                        in North into whispers of potential income. Goa ready, always  
+                        waiting, a testament to our expertise and years of experience.
                          Many a satisfied homeowner's tale, a ballet of joy under our care.
                         <br /><br />
-                        Complete transparency, our solemn vow, where real-time tales of<br /> 
-                        bookings and revenue unfold. By the 10th of each month, the gentle<br /> 
-                        rhythm of effortless payouts serenades your bank. Expert hands <br />
-                        cradle your sanctuary, mending and tending, crafting a symphony of <br />
+                        Complete transparency, our solemn vow, where real-time tales of
+                        bookings and revenue unfold. By the 10th of each month, the gentle
+                        rhythm of effortless payouts serenades your bank. Expert hands 
+                        cradle your sanctuary, mending and tending, crafting a symphony of
                         comfort and prosperity in every corner.
                     </p>
                    
                     <p class="rent-info-detail mobile">
                         In the heart of Greenambit Infrastructures, we weave dreams 
                         into reality, turning your Villa in North Goa and Apartments 
-                        in North into whispers of potential income. Always ready, always waiting, 
+                        in North into whispers of potential income. Goa ready, always waiting, 
                         a testament to our expertise and years of experience. Many a 
                         satisfied homeowner's tale, a ballet of joy under our care.<br /><br />
                          Complete transparency, our solemn vow, where real-time tales of 
@@ -570,7 +573,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>--%>
@@ -610,7 +613,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
@@ -676,7 +679,7 @@
     $('.scrl2btm').click(function () {
         $('html, body').animate({
             scrollTop: $('.contact-box.js-reveal').offset().top-90
-        }, 1000);
+        }, 100);
         return false;
     });
 

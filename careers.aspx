@@ -35,8 +35,8 @@
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
                         <ul class="subMenu onPhoneUnwrap">
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
+                           <li><a href="http://calissa.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
+                             <li><a href="http://theisadora.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
                         </ul>
                    </div>
                 </li>
@@ -119,7 +119,7 @@
 
             <div class="column">
                 <p>
-                    Greenambit Infrastructure is a real estate powerhouse. Established in the year 2017 with the mission to build careers worth having. The company has been amongst the fastest growing realty destination. We are pioneers in our area of business. Joining us refers to joining a business leader. If you are passionate about work and want to achieve big in life, Greenambit can serve as a perfect platform to realize your dreams.
+                    Greenambit Infrastructures is a real estate powerhouse. Established in the year 2017 with the mission to build careers worth having. The company has been amongst the fastest growing realty destination. We are pioneers in our area of business. Joining us refers to joining a business leader. If you are passionate about work and want to achieve big in life, Greenambit can serve as a perfect platform to realize your dreams.
                 </p>
 
 
@@ -129,7 +129,7 @@
 
                 <h2>1. We offer you freedom to grow.</h2>
 
-                <p>At Greenambit Infrastructure, you are sure to enjoy the freedom to grow. With us, you will have the control over your career. We provide you enough room to blossom your creativity and innovation. We do respect your solutions for tasks assigned and targets set. However, we surely are pride of our staff for being innovative and taking initiative but at the same time, we don’t thrive for competition within the team. Our ways may be different, but we all work towards the same goal.</p>
+                <p>At Greenambit Infrastructures, you are sure to enjoy the freedom to grow. With us, you will have the control over your career. We provide you enough room to blossom your creativity and innovation. We do respect your solutions for tasks assigned and targets set. However, we surely are pride of our staff for being innovative and taking initiative but at the same time, we don’t thrive for competition within the team. Our ways may be different, but we all work towards the same goal.</p>
 
                 <h2>2. We accelerate your growth</h2>
 
@@ -153,7 +153,7 @@
                 
                 <h2>7. We help you manage your performance as never before</h2>
 
-                <p>Greenambit Infrastructure, we value your expertise and work. We include you in the process of decision making (of course, with respect to your experience and expertise) and encourage you to take new challenges. We ensure all our staff is full of energy and true commitment to the success of our company and that of our clients. Your growth speaks of your achievements here and we never fail to recognize the efforts of our staff.
+                <p>Greenambit Infrastructures, we value your expertise and work. We include you in the process of decision making (of course, with respect to your experience and expertise) and encourage you to take new challenges. We ensure all our staff is full of energy and true commitment to the success of our company and that of our clients. Your growth speaks of your achievements here and we never fail to recognize the efforts of our staff.
                     We are continuously seeking skilled and potential candidates to be a part of our professional family. If you are looking to build an extraordinary career at one of the best companies in the industry, we are right there to welcome you with open arms. We make you grow with us and reach new heights in your career.</p>
 
                 
@@ -272,7 +272,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
@@ -299,7 +299,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>

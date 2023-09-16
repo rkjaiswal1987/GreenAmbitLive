@@ -34,8 +34,8 @@
                     <a href="#">Projects <i class="fa-solid fa-chevron-down" style="font-size: 16px;transition: 0.2s all ease-in-out;"></i></a>
                     <div style="position:absolute; top: 8px;width: 108px;z-index: -1;height: 32px;">
                         <ul class="subMenu onPhoneUnwrap">
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
-                            <li><a href="#"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
+                           <li><a href="http://calissa.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Calissa </span></a></li>
+                             <li><a href="http://theisadora.greenambit.com/" target="_blank"><span style="font-family: 'Open Sans';">The Isadora </span></a></li>
                         </ul>
                    </div>
                 </li>
@@ -101,8 +101,8 @@
 
     <div class="disclaimer">
         <h2>Disclaimer</h2>
-        <p>By accessing or using Greenambit Infrastructure, you agree to adhere to our terms and conditions. <br> <br>
-        The content on Greenambit Infrastructure is provided “as is” and on an “as available” basis, without any warranties or
+        <p>By accessing or using Greenambit Infrastructures, you agree to adhere to our terms and conditions. <br> <br>
+        The content on Greenambit Infrastructures is provided “as is” and on an “as available” basis, without any warranties or
         representations of
         any kind, either expressed or implied. Any information, opinion and publication available on the website, is general
         information about
@@ -111,7 +111,7 @@
         properties and projects. In no case, shall the recommendations or information available on the website be regarded as a
         substitute to
         legal or real estate advice. If required, investors should seek appropriate legal or real estate advice. <br> <br>
-        Greenambit Infrastructure disowns all warranties, expressed or implied, statutory or otherwise including, but not
+        Greenambit Infrastructures disowns all warranties, expressed or implied, statutory or otherwise including, but not
         limited to,
         comprehensiveness or accuracy of the information, content, graphics and images displayed on the website, update or
         authenticity of the
@@ -119,7 +119,7 @@
         of rights related to
         the services, material and content of the website. Though every effort is made to ensure that the information available
         at the website is
-        accurate and up to date, but Greenambit Infrastructure does not guarantee or warrant the authenticity, completeness, or
+        accurate and up to date, but Greenambit Infrastructures does not guarantee or warrant the authenticity, completeness, or
         accuracy of
         the information provided. <br> <br>
         You explicitly agree that any information or/and material or/and services attained through this website is done at your
@@ -128,11 +128,11 @@
         the website. Do your own
         inquiry and obtain independent professional advice customized to your specific requirements before reaching any legal,
         financial or real
-        estate decisions. No advice or information, whether oral or/and written, acquired by you from Greenambit Infrastructure
+        estate decisions. No advice or information, whether oral or/and written, acquired by you from Greenambit Infrastructures
         shall create
-        any warranty not expressly stated herein. Greenambit Infrastructure also doesn’t guarantee that the site, its servers,
+        any warranty not expressly stated herein. Greenambit Infrastructures also doesn’t guarantee that the site, its servers,
         or e-mails are free
-        of virus or any other harmful component, or that any defect in the website shall be corrected. Greenambit Infrastructure
+        of virus or any other harmful component, or that any defect in the website shall be corrected. Greenambit Infrastructures
         shall not be
         held accountable for any sort of damages arising out of the usage of or as a result of action taken by you based on
         information acquired
@@ -145,7 +145,7 @@
         code and other
         material on the website are copyrighted. Modification or republication of any information without prior written
         permission of
-        Greenambit Infrastructure, is strictly prohibited. <br> <br>
+        Greenambit Infrastructures, is strictly prohibited. <br> <br>
         This site aims to provide general information to clients and visitors. It by no means offers professional legal advice
         on the website and
         thus, no information contained in this website should be considered as a counterpart to legal advice. If you need such
@@ -153,7 +153,7 @@
         contact a law professional or contact us for further information. <br> <br>
         The submission of an enquiry by any person, organization or entity on website implies subscribing to regular updates &
         notifications
-        from Greenambit Infrastructure time to time on current project and/or upcoming projects by the medium of SMS, Email,
+        from Greenambit Infrastructures time to time on current project and/or upcoming projects by the medium of SMS, Email,
         Courier or any
         other marketing plan. <br> <br>
         The information mentioned in website is subject to change at the sole discretion of company. Company holds the right to
@@ -162,7 +162,7 @@
         content are
         just the projections of the project. However, there can be differences in the actual deliveries depending upon price,
         availability etc of the
-        product. Greenambit Infrastructure shall try for the provision/arrangement of assistance of services in the project on
+        product. Greenambit Infrastructures shall try for the provision/arrangement of assistance of services in the project on
         prior notice of
         same by the resident/guest. However its fulfillment depends on the subject to availability, time & suitability of
         conditions. The same shall
@@ -177,13 +177,13 @@
         person. The statistics
         and facts mentioned in website are taken from different sources available in Google & is not an outcome of any research
         held primarily
-        at Greenambit Infrastructure. The stats and facts may vary in future. The brand names mentioned are just for reference
+        at Greenambit Infrastructures. The stats and facts may vary in future. The brand names mentioned are just for reference
         purposes &
         should not be assumed to be promised to be delivered in same accord. Please note : The white goods, curtains, electronic
         goods and
         furniture shown in our renderings is a part of separate furnishing package. The price of the package shall be subject to
         changes time to
-        time and shall be decided by Greenambit Infrastructure. The furniture shown in renderings can be different from what is
+        time and shall be decided by Greenambit Infrastructures. The furniture shown in renderings can be different from what is
         shown in the
         renderings dependent on latest styling and market demand & availability.</p>
     </div>
@@ -297,7 +297,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
@@ -325,7 +325,7 @@
                         </li>
                     </ul>
                     <div class="copyRightTxt">
-                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructure</a> All
+                        <span class="copyright_text">Copyright © 2023 <a href="#">Greenambit Infrastructures</a> All
                             rights reserved</span>
                     </div>
                 </ul>
